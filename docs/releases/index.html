@@ -1202,24 +1202,25 @@ const copyBtn = (v, label, icon) => '<button class="copy" data-copy="' + escA(v)
   '" title="' + escA(label || 'Copy') + '">' + (icon || '⧉') + '</button>';
 
 // --- Launch on MiSTer -------------------------------------------------------
-// Talks to wizzo's mrext Remote service on the visitor's MiSTer (Scripts/
-// remote.sh, port 8182): GET /api/l/<UNPADDED base64url payload> launches an
-// absolute file path or a **system:<id> script (mrext's LaunchToken dialect —
-// NOT ZapScript: launch.system is "unknown command" here, and padded base64
-// is rejected). Bare /l/ must be avoided: the SPA serves every unknown route
-// with a 200, which looks like success and launches nothing. A GET
-// *navigation* is deliberately the transport — this https page may not
-// fetch() an http LAN address (mixed content), but it may navigate to one, so
-// the button window.open()s the URL and closes the tab a beat later. No
-// response is readable (fire-and-forget); failures (missing file on the SD,
-// device off) only flash their error text in the tab before it closes.
-// Devices persist per-browser in localStorage (mz-misters / mz-mister-last).
+// Talks to the Zaparoo Core API on the visitor's MiSTer (port 7497): GET
+// /run/<ZapScript, URL-encoded> runs it as though a token with that text had
+// been scanned. A relative file path (e.g. d.mra) launches that file; a
+// **launch.system:<id> command loads a core/emulator on its own. No base64
+// involved — the whole ZapScript string is just encodeURIComponent'd into
+// the path. A GET *navigation* is deliberately the transport — this https
+// page may not fetch() an http LAN address (mixed content), but it may
+// navigate to one, so the button window.open()s the URL and closes the tab a
+// beat later. No response is readable (fire-and-forget); failures (missing
+// file on the SD, device off) only flash their error text in the tab before
+// it closes. Devices persist per-browser in localStorage (mz-misters /
+// mz-mister-last).
 
-// core/rbf name → mrext system id (pkg/games/systems.go), for non-arcade rows:
-// launching a "system" loads that core. Arcade rows launch their .mra by path
-// (d.mra) and don't use this. Cores absent here (no mrext id) get no button.
+// core/rbf name → Zaparoo system id (pkg/database/systemdefs/systemdefs.go),
+// for non-arcade rows: launching a "system" loads that core. Arcade rows
+// launch their .mra by path (d.mra) and don't use this. Cores absent here
+// (no id) get no button.
 const MISTER_SYS = Object.fromEntries([
-  // cores whose mrext system id matches the core name exactly
+  // cores whose Zaparoo system id matches the core name exactly
   ...('AcornAtom AcornElectron AliceMC10 Amstrad Apogee Aquarius Atari800 BBCMicro BK0011M ' +
       'C16 C64 CoCo2 EDSAC Galaksija Interact Jupiter Lynx48 MSX MSX1 MacPlus MultiComp ' +
       'Oric PCXT PDP1 PET2001 PMD85 QL RX78 SAMCoupe SordM5 Specialist TSConf ' +
@@ -1228,7 +1229,7 @@ const MISTER_SYS = Object.fromEntries([
       'ColecoVision CreatiVision GBA Gamate Gameboy Genesis Intellivision Jaguar MegaCD ' +
       'NES NeoGeo Odyssey2 PSX PokemonMini SNES Saturn SuperVision TurboGrafx16 VC4000 ' +
       'Vectrex WonderSwan Arduboy Chip8').split(' ').map(s => [s, s]),
-  // renames between MiSTer rbf names and mrext ids
+  // renames between MiSTer rbf names and Zaparoo system ids
   ...Object.entries({
     'Amstrad-PCW': 'AmstradPCW', 'Apple-I': 'AppleI', 'Apple-II': 'AppleII',
     'Casio_PV-2000': 'CasioPV2000', 'Laser310': 'Laser', 'Minimig': 'Amiga',
@@ -1239,10 +1240,11 @@ const MISTER_SYS = Object.fromEntries([
     'N64': 'Nintendo64', 'S32X': 'Sega32X', 'SGB': 'SuperGameboy', 'SMS': 'MasterSystem',
   }),
 ]);
-// what a row launches: arcade → its MRA's SD-card path; others → their system
+// what a row launches: arcade → its MRA's relative SD-card path; others →
+// a **launch.system ZapScript command for their system
 const launchScript = d => d.base === 'Arcade'
-  ? (d.mra ? '/media/fat/' + d.mra : null)
-  : (MISTER_SYS[d.core] ? '**system:' + MISTER_SYS[d.core] : null);
+  ? (d.mra || null)
+  : (MISTER_SYS[d.core] ? '**launch.system:' + MISTER_SYS[d.core] : null);
 
 let misters = [];
 try { misters = JSON.parse(localStorage.getItem('mz-misters') || '[]') || []; } catch (e) {}
@@ -1253,15 +1255,18 @@ const saveMisters = () => {
   localStorage.setItem('mz-mister-last', lastMister);
 };
 
-// URL-safe base64 of the UTF-8 bytes (MRA paths carry 'é', '&', apostrophes…)
-const b64url = s => btoa(Array.from(new TextEncoder().encode(s), b => String.fromCharCode(b)).join(''))
-  .replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+// URL-safe encoding of the ZapScript text (MRA paths carry 'é', '&', apostrophes,
+// and system launches carry '*', ':' — encodeURIComponent handles all of it).
+// Encoded per path segment, not the whole string: Zaparoo's /run/* route does
+// NOT decode a %2F back into a literal slash, so an encoded '/' would arrive
+// as a single mangled path segment instead of the intended directory split.
+const zsEncode = s => s.split('/').map(encodeURIComponent).join('/');
 
 function fireLaunch(dev, script, btn) {
   // small popup (not a full tab), pre-painted dark before it navigates to the
   // http:// LAN URL (top-level navigation is the only mixed-content-legal
-  // transport; the Remote response page itself can't be styled or read).
-  // 4s before auto-close: enough to read Remote's plain-text 500 on a miss.
+  // transport; the Zaparoo response page itself can't be styled or read).
+  // 4s before auto-close: enough to read a plain-text error on a miss.
   const w = window.open('', '_blank', 'popup,width=460,height=180');
   if (w) {
     try {
@@ -1269,7 +1274,7 @@ function fireLaunch(dev, script, btn) {
         'place-items:center;height:100vh;background:#141414;color:#999;' +
         'font:13px system-ui">Launching on ' + dev.n.replace(/[<>&]/g, '') + '…</body>');
     } catch (e) {}
-    w.location.replace('http://' + dev.h + '/api/l/' + b64url(script));
+    w.location.replace('http://' + dev.h + '/run/' + zsEncode(script));
     setTimeout(() => { try { w.close(); } catch (e) {} }, 4000);
   }
   if (btn) {  // same flash-confirm rhythm as the copy buttons
@@ -1761,7 +1766,7 @@ document.addEventListener('click', e => {
 // --- MiSTer device popover: chooser + manager for the Launch button ---------
 // Shares metapop/closePop with the meta-line popovers, so outside-click and
 // Esc handling come for free. Picking a device launches on it AND makes it
-// the default; the adder normalizes pasted addresses and assumes port 8182.
+// the default; the adder normalizes pasted addresses and assumes port 7497.
 function misterPopHTML() {
   return (misters.length
       ? '<p>Launch on:</p>' + misters.map((m, i) =>
@@ -1773,8 +1778,8 @@ function misterPopHTML() {
     '<div class="devrow adder"><input class="nm" placeholder="Name (optional)">' +
     '<input class="ad" placeholder="mister.local or IP">' +
     '<button class="add">Add</button></div>' +
-    '<p class="note">Each MiSTer needs wizzo’s free Remote service: run it once from the Scripts ' +
-    'menu and let it enable startup, no other setup. ' +
+    '<p class="note">Each MiSTer needs the Zaparoo Core service: install and run it once, ' +
+    'no other setup. ' +
     '<a href="https://github.com/matijaerceg/misterzine#launch-on-your-mister" ' +
     'target="_blank" rel="noopener">Setup guide<span class="ext">↗</span></a></p>';
 }
@@ -1799,7 +1804,7 @@ function onMisterPop(e) {
     const nm = metapop.querySelector('.nm'), ad = metapop.querySelector('.ad');
     let h = ad.value.trim().replace(/^https?:\/\//, '').replace(/\/.*$/, '');
     if (!h) { ad.focus(); return; }
-    if (!/:\d+$/.test(h)) h += ':8182';
+    if (!/:\d+$/.test(h)) h += ':7497';
     misters.push({ n: nm.value.trim() || h.replace(/:\d+$/, ''), h });
     lastMister = misters.length - 1;
     saveMisters(); metapop.innerHTML = misterPopHTML(); updateLaunchRow();

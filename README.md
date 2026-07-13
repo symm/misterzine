@@ -68,13 +68,12 @@ be on your SD card), console/computer entries load the core.
 
 Setup (once per browser):
 
-1. On the MiSTer, install and run **Remote** from
-   [MiSTer Extensions (mrext)](https://github.com/wizzomafizzo/mrext): available in
-   `update_all` (MiSTer Extensions repo), then Scripts → `remote`. It starts a small web
-   service on port 8182 and offers to keep itself running after reboots.
+1. On the MiSTer, install and run **[Zaparoo Core](https://zaparoo.org/)**: available in
+   `update_all` (MiSTer Extensions repo), then Scripts → `zaparoo`. It starts a small web
+   service on port 7497 and offers to keep itself running after reboots.
 2. On the site, open any entry, click the Launch button, and add your MiSTer's address
    (hostname or IP; `mister.local` works on a stock setup, and the port defaults
-   to 8182). Give it a name if you have several.
+   to 7497). Give it a name if you have several.
 3. Click Launch. A tab flashes for a second while the request is handed to the MiSTer
    (a browser page can't quietly talk to a local device, so the brief tab *is* the
    request), then the game appears on your TV.
@@ -86,16 +85,16 @@ Notes:
 - Device addresses live only in your browser's local storage; nothing is sent anywhere
   except to your own MiSTer, on your own network.
 - Launching a game you don't have on the SD card fails politely: the flashed tab shows
-  Remote's error text before closing.
-- Console/computer launches need that core installed on the MiSTer. A brief
-  "no core found" flash means it isn't: Remote checks the actual core files on every
-  launch, and `http://<mister-ip>:8182/api/systems` lists exactly which systems are
-  launchable on your device. Installing the core (e.g. via `update_all` with the main
-  MiSTer distribution enabled) makes it work immediately, no rescan needed.
+  Zaparoo's error text before closing.
+- Console/computer launches need that core installed on the MiSTer. A brief error flash
+  means it isn't: Zaparoo checks the actual core files on every launch (its `systems` API
+  method lists exactly which systems are launchable on your device). Installing the core
+  (e.g. via `update_all` with the main MiSTer distribution enabled) makes it work
+  immediately, no rescan needed.
 - Known limitation: if your cores come from the DB9/SNAC fork (an `update_all` option
   for DB9 controller support), console/computer launches will always fail with
   "no core found". Those builds use renamed core files (like
-  `SNES_20260611_22baeda_DB9.rbf`) that Remote cannot match to a system, and there is
+  `SNES_20260611_22baeda_DB9.rbf`) that Zaparoo cannot match to a system, and there is
   no workaround short of also installing the official cores. Arcade launches are not
   affected.
 - Works from a phone on the same wifi too.
