@@ -6,7 +6,16 @@
 <description>Shipped updates to existing cores and arcade games in the public MiSTer databases. See feed.xml for new releases too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-updates.xml"/>
-<lastBuildDate>Tue, 21 Jul 2026 19:33:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 01:06:18 +0000</lastBuildDate>
+<item>
+<title>[Updated] Apple Lisa (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
+<guid isPermaLink="false">distribution_mister:_Computer/Apple-Lisa_20260721.rbf:2026-07-22T01:06:18+00:00</guid>
+<pubDate>Wed, 22 Jul 2026 01:06:18 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1983 / Apple&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-22 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Apple-Lisa_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Apple Lisa (Computer core)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
@@ -897,15 +906,6 @@
 <category>updated</category>
 <category>Other core</category>
 <description>&lt;p&gt;Updated in the public MiSTer databases on 2026-07-08 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/EpochGalaxy2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Dig Dug (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#digdug</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dig Dug (Rev 2).mra:2026-07-07T22:19:48+00:00</guid>
-<pubDate>Tue, 07 Jul 2026 22:19:48 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/digdug.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1982 / Namco&lt;/p&gt;&lt;p&gt;Core: digdug&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-07 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DigDug_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
