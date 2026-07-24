@@ -6,7 +6,25 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Wed, 22 Jul 2026 01:06:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 21:32:22 +0000</lastBuildDate>
+<item>
+<title>[New] Dark Seal (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#darkseal</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Dark Seal (World revision 3).mra:2026-07-23T21:32:22+00:00</guid>
+<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/darkseal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Vapor Trail - Hyper Offence Formation (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#vaportra</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Vapor Trail - Hyper Offence Formation (World revision 1).mra:2026-07-23T21:32:22+00:00</guid>
+<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vaportra.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Apple Lisa (Computer core)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
@@ -888,24 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sf2ce.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Capcom&lt;/p&gt;&lt;p&gt;Core: jtcps1&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-17 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/cps1"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Tetris (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#atetris</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Tetris/Tetris (set 1, Japan, System 16B) (FD1094 317-0091).mra:2026-07-17T18:07:32+00:00</guid>
-<pubDate>Fri, 17 Jul 2026 18:07:32 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/atetris.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1988 / Atari&lt;/p&gt;&lt;p&gt;Core: ataritetris&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-17 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Time Scanner (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#timescan</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Time Scanner/Time Scanner (set 3, Japan, System 16B) (FD1089B 317-0024).mra:2026-07-17T18:07:32+00:00</guid>
-<pubDate>Fri, 17 Jul 2026 18:07:32 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/timescan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Pinball / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-17 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
