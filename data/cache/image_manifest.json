@@ -8224,5 +8224,14 @@
   "snap_img": "ingames/vaportra.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Premier Soccer",
+  "setname": "prmrsocr",
+  "source": "adb",
+  "title_img": "titles/prmrsocr.png",
+  "snap_img": "ingames/prmrsocr.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]
