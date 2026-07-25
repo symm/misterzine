@@ -8233,5 +8233,14 @@
   "snap_img": "ingames/prmrsocr.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Jungle King",
+  "setname": "junglek",
+  "source": "adb",
+  "title_img": "titles/junglek.png",
+  "snap_img": "ingames/junglek.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]

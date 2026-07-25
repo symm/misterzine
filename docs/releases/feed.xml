@@ -6,7 +6,16 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Fri, 24 Jul 2026 19:01:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 20:02:11 +0000</lastBuildDate>
+<item>
+<title>[New] Jungle King (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#jungle-king</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Jungle King (Japan).mra:2026-07-24T20:02:11+00:00</guid>
+<pubDate>Fri, 24 Jul 2026 20:02:11 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/junglek.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1982 / Taito Corporation&lt;/p&gt;&lt;p&gt;Core: TaitoSJ&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-TaitoSystemSJ_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] 1943 Kai: Midway Kaisen (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#1943kai</link>
@@ -897,15 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mtetrisc.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1998 / Capcom&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Mayjinsen 3 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#mayjin3</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Mayjinsen 3.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mayjin3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2000 / Seta / Able Corporation&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
