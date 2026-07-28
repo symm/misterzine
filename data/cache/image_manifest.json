@@ -8242,5 +8242,14 @@
   "snap_img": "ingames/junglek.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Raiden",
+  "setname": "raiden",
+  "source": "adb",
+  "title_img": "titles/raiden.png",
+  "snap_img": "ingames/raiden.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]
