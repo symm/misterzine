@@ -1,3 +1,23 @@
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Console/N64_20260108.rbf", "title": "N64_20260108", "system": "console", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Pirate Pete.mra", "title": "Pirate Pete", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Kangaroo (Bootleg).mra", "title": "Kangaroo (Bootleg)", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Kangaroo (Atari).mra", "title": "Kangaroo (Atari)", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jungle King Japan.mra", "title": "Jungle King Japan", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jungle Hunt US.mra", "title": "Jungle Hunt US", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jr. Pac-Man (Speedup Hack).mra", "title": "Jr. Pac-Man (Speedup Hack)", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Dark Seal (World revision 3).mra", "title": "Dark Seal (World revision 3)", "system": "arcade", "event_type": "removed", "hash": null}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Console/N64_20260726.rbf", "title": "N64_20260726", "system": "console", "event_type": "new", "hash": "0b5922d922737758201aad7d1c1b7c7b"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Vastar.mra", "title": "Vastar", "system": "arcade", "event_type": "updated", "hash": "2f9d50cccae41b935c89af166cf27aaf"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Tetris.mra", "title": "Tetris", "system": "arcade", "event_type": "updated", "hash": "8117bc6985574574aafe2d5eaae9f45c"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Son of Phoenix.mra", "title": "Son of Phoenix", "system": "arcade", "event_type": "new", "hash": "7c3cec818dd91d14fb18b812f2fb6d81"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/SRD Mission.mra", "title": "SRD Mission", "system": "arcade", "event_type": "new", "hash": "4fce5f5980141dcdd32bf152d448b914"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Repulse.mra", "title": "Repulse", "system": "arcade", "event_type": "new", "hash": "1adb325b22f52a3f89a38bbbae016802"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Planet Probe.mra", "title": "Planet Probe", "system": "arcade", "event_type": "updated", "hash": "726fda7c37d781ac18a3b5d4577a5c5c"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Legend.mra", "title": "Legend", "system": "arcade", "event_type": "new", "hash": "5649d74e8f59bf7d2fa0c36cf5886371"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Gyrodine.mra", "title": "Gyrodine", "system": "arcade", "event_type": "new", "hash": "90886f7cfd19c9438d286b4718e9628f"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Flashgal.mra", "title": "Flashgal", "system": "arcade", "event_type": "new", "hash": "a9ee479b1f8fe6455a4c32688140ded4"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/Airwolf.mra", "title": "Airwolf", "system": "arcade", "event_type": "new", "hash": "6d784748a10f5a14a1fe0ae16aa38b24"}
+{"ts": "2026-07-30T18:52:10+00:00", "source_id": "distribution_mister", "path": "_Arcade/99 The Last War.mra", "title": "99 The Last War", "system": "arcade", "event_type": "new", "hash": "af16ef7b7a4c26168cabd6474ec590e2"}
 {"ts": "2026-07-30T13:14:06+00:00", "source_id": "distribution_mister", "path": "_Arcade/Pirate Pete.mra", "title": "Pirate Pete", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-30T13:14:06+00:00", "source_id": "distribution_mister", "path": "_Arcade/Kangaroo (Bootleg).mra", "title": "Kangaroo (Bootleg)", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-30T13:14:06+00:00", "source_id": "distribution_mister", "path": "_Arcade/Kangaroo (Atari).mra", "title": "Kangaroo (Atari)", "system": "arcade", "event_type": "removed", "hash": null}
@@ -181,6 +201,7 @@
 {"ts": "2026-07-24T20:02:11+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jungle Hunt US.mra", "title": "Jungle Hunt US", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-24T20:02:11+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jr. Pac-Man (Speedup Hack).mra", "title": "Jr. Pac-Man (Speedup Hack)", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-24T20:02:11+00:00", "source_id": "distribution_mister", "path": "_Arcade/Jungle King (Japan).mra", "title": "Jungle King (Japan)", "system": "arcade", "event_type": "new", "hash": "cd4feee7b7351ea015fa4d400dd9ac80"}
+{"ts": "2026-07-24T19:01:55+00:00", "source_id": "jtbindb", "path": "_Arcade/CPS1 Multi Game.mra", "title": "CPS1 Multi Game", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-24T19:01:55+00:00", "source_id": "jtbindb", "path": "_Arcade/CPS1 Multi Game.mra", "title": "CPS1 Multi Game", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-24T19:01:55+00:00", "source_id": "jtbindb", "path": "_Arcade/CPS1 Multi Game.mra", "title": "CPS1 Multi Game", "system": "arcade", "event_type": "removed", "hash": null}
 {"ts": "2026-07-24T19:01:55+00:00", "source_id": "jtbindb", "path": "_Arcade/CPS1 Multi Game.mra", "title": "CPS1 Multi Game", "system": "arcade", "event_type": "removed", "hash": null}

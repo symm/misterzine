@@ -198,6 +198,15 @@
     "crawled_at": "2026-06-30T03:00:03+00:00"
   },
   {
+    "repo": "MiSTer-devel/Arcade-Kyugo_MiSTer",
+    "core": "Arcade-Kyugo",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-Kyugo_MiSTer",
+    "first_commit": "2026-04-25T02:18:39Z",
+    "last_commit": "2026-07-30T18:09:11Z",
+    "commits": 35,
+    "crawled_at": "2026-07-30T19:50:57+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-IGSPGM_MiSTer",
     "core": "Arcade-IGSPGM",
     "html_url": "https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer",
@@ -211,9 +220,9 @@
     "core": "Arcade-Darius",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Darius_MiSTer",
     "first_commit": "2026-02-27T22:28:29Z",
-    "last_commit": "2026-05-02T18:40:33Z",
-    "commits": 5,
-    "crawled_at": "2026-06-30T03:00:00+00:00"
+    "last_commit": "2026-07-30T14:59:48Z",
+    "commits": 6,
+    "crawled_at": "2026-07-30T19:50:56+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-SNK6502_MiSTer",
@@ -247,9 +256,9 @@
     "core": "Arcade-Vastar",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Vastar_MiSTer",
     "first_commit": "2026-02-24T04:51:30Z",
-    "last_commit": "2026-07-30T12:48:57Z",
-    "commits": 44,
-    "crawled_at": "2026-07-30T14:31:00+00:00"
+    "last_commit": "2026-07-30T18:51:49Z",
+    "commits": 46,
+    "crawled_at": "2026-07-30T19:50:55+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-JunoFirst_MiSTer",
@@ -1039,9 +1048,9 @@
     "core": "Arcade-ATetris",
     "html_url": "https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer",
     "first_commit": "2019-12-10T20:50:59Z",
-    "last_commit": "2025-08-08T15:39:35Z",
-    "commits": 27,
-    "crawled_at": "2026-06-30T02:58:36+00:00"
+    "last_commit": "2026-07-30T14:32:59Z",
+    "commits": 28,
+    "crawled_at": "2026-07-30T19:50:55+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-FoodFight_MiSTer",
