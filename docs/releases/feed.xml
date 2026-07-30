@@ -6,7 +6,142 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Tue, 28 Jul 2026 18:15:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 01:11:10 +0000</lastBuildDate>
+<item>
+<title>[New] Boogie Wings (USA, v1.7, 92.12.14) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#boogwingu</link>
+<guid isPermaLink="false">coinop:_Arcade/Boogie Wings (USA, v1.7, 92.12.14).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/boogwingu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: boogwing_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-BoogieWings_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Caveman Ninja (World, Ver. 4) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#caveman-ninja-world-ver-4-2</link>
+<guid isPermaLink="false">coinop:_Arcade/Caveman Ninja (World, Ver. 4).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cninja.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: cninja_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Crude Buster (World, FX version) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#crude-buster-world-fx-version-2</link>
+<guid isPermaLink="false">coinop:_Arcade/Crude Buster (World, FX version).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cbuster.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: cbuster_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Dark Seal (World, Rev. 3) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#dark-seal-world-rev-3</link>
+<guid isPermaLink="false">coinop:_Arcade/Dark Seal (World, Rev. 3).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/darkseal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: darkseal_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Robocop 2 (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robocop2u</link>
+<guid isPermaLink="false">coinop:_Arcade/Robocop 2 (USA, v0.10).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robocop2u.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: robocop2_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] The Cliffhanger - Edward Randy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#edrandy</link>
+<guid isPermaLink="false">coinop:_Arcade/The Cliffhanger - Edward Randy (World, Ver. 3).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/edrandy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: edrandy_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Tumble Pop (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#tumblep</link>
+<guid isPermaLink="false">coinop:_Arcade/Tumble Pop (World).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tumblep.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: tumblep_mister&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Vapor Trail - Hyper Offence Formation (World, Rev. 1) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#vapor-trail-hyper-offence-formation-world-rev-1</link>
+<guid isPermaLink="false">coinop:_Arcade/Vapor Trail - Hyper Offence Formation (World, Rev. 1).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vaportra.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: vaportra_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Robocop 2 (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robocop2u</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Robocop 2/Robocop 2 (Japan, v0.11).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robocop2u.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: robocop2_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Robocop 2 (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robocop2u</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Robocop 2/Robocop 2 (USA, v0.05).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robocop2u.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: robocop2_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Robocop 2 (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robocop2u</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Robocop 2/Robocop 2 (World, v0.10).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robocop2u.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: robocop2_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] The Cliffhanger - Edward Randy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#edrandy</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_The Cliffhanger - Edward Randy/The Cliffhanger - Edward Randy (Japan, Ver. 3).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/edrandy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: edrandy_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] The Cliffhanger - Edward Randy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#edrandy</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_The Cliffhanger - Edward Randy/The Cliffhanger - Edward Randy (World, Ver. 1).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/edrandy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: edrandy_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] The Cliffhanger - Edward Randy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#edrandy</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_The Cliffhanger - Edward Randy/The Cliffhanger - Edward Randy (World, Ver. 2).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/edrandy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: edrandy_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Tumble Pop (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#tumblep</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Tumble Pop/Tumble Pop (Japan).mra:2026-07-30T01:11:10+00:00</guid>
+<pubDate>Thu, 30 Jul 2026 01:11:10 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tumblep.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: tumblep_mister&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-30 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Raiden (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#raiden</link>
@@ -771,141 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/trojan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1986 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Wonder Boy III - Monster Lair (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#wb3</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Wonder Boy III/Wonder Boy III - Monster Lair (set 2, Japan, System 16B) (FD1094 317-0085).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wb3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Sega / Westone&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Wonder Boy III - Monster Lair (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#wb3</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Wonder Boy III/Wonder Boy III - Monster Lair (set 4, Japan, System 16B) (FD1094 317-0087).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wb3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Sega / Westone&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Wrestle War (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#wrestwar</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Wrestle War/Wrestle War (set 1, Japan) (FD1094 317-0090).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wrestwar.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1989 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Wrestle War (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#wrestwar</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Wrestle War/Wrestle War (set 2, World) (FD1094 317-0102).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wrestwar.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1989 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Neo Geo Pocket (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#NeoGeoPocket</link>
-<guid isPermaLink="false">jtbindb:_Console/NeoGeoPocket.rbf:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>updated</category>
-<category>Console core</category>
-<description>&lt;p&gt;1998 / SNK&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/ngp"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Dark Seal (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#darkseal</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dark Seal (World revision 3).mra:2026-07-23T21:32:22+00:00</guid>
-<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/darkseal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Vapor Trail - Hyper Offence Formation (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#vaportra</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Vapor Trail - Hyper Offence Formation (World revision 1).mra:2026-07-23T21:32:22+00:00</guid>
-<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vaportra.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Apple Lisa (Computer core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
-<guid isPermaLink="false">distribution_mister:_Computer/Apple-Lisa_20260721.rbf:2026-07-22T01:06:18+00:00</guid>
-<pubDate>Wed, 22 Jul 2026 01:06:18 +0000</pubDate>
-<category>updated</category>
-<category>Computer core</category>
-<description>&lt;p&gt;1983 / Apple&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-22 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Apple-Lisa_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] AtariLynx2P (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#AtariLynx2P</link>
-<guid isPermaLink="false">distribution_mister:_Console/AtariLynx2P_20260713.rbf:2026-07-22T01:06:18+00:00</guid>
-<pubDate>Wed, 22 Jul 2026 01:06:18 +0000</pubDate>
-<category>new</category>
-<category>Console core</category>
-<description>&lt;p&gt;New in the public MiSTer databases on 2026-07-22 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Apple Lisa (Computer core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
-<guid isPermaLink="false">distribution_mister:_Computer/Apple-Lisa_20260717.rbf:2026-07-21T19:33:34+00:00</guid>
-<pubDate>Tue, 21 Jul 2026 19:33:34 +0000</pubDate>
-<category>updated</category>
-<category>Computer core</category>
-<description>&lt;p&gt;1983 / Apple&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-21 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Apple-Lisa_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Tempest (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tempest</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Tempest.mra:2026-07-20T23:38:11+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 23:38:11 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tempest.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Atari&lt;/p&gt;&lt;p&gt;Core: Tempest&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Tempest_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Eleven Beat (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#11beat</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Eleven Beat.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/11beat.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1998 / Hudson Soft&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hanabi de Doon! - Don-chan Puzzle (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#doncdoon</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hanabi de Doon! - Don-chan Puzzle.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/doncdoon.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 2003 / Aruze&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hi Pai Paradise 2 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hipai2</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hi Pai Paradise 2.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hipai2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2004 / Aruze / Seta / Paon&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hi Pai Paradise (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hipai</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hi Pai Paradise.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hipai.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2003 / Aruze / Seta&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
