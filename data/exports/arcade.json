@@ -6040,6 +6040,26 @@
     "genre": "Shooter"
   },
   {
+    "source_id": "coinop",
+    "path": "_Arcade/Diet Go Go (Europe, Set 1).mra",
+    "system": "arcade",
+    "kind": "title",
+    "title": "Diet Go Go (Europe, Set 1)",
+    "hash": "b9f0df080e670986eff609831544e555",
+    "size": 2593,
+    "year": "1992",
+    "manufacturer": "Data East Corporation",
+    "rbf": "dietgo",
+    "repo": "Coin-OpCollection/Distribution-MiSTerFPGA",
+    "release_date": "2020-60-80",
+    "last_update": "2026-08-01T18:54:22Z",
+    "first_seen": "2026-08-01T18:55:11+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
+    "last_changed": "2026-08-01T18:55:11+00:00",
+    "setname": "dietgo",
+    "genre": "Platform"
+  },
+  {
     "source_id": "distribution_mister",
     "path": "_Arcade/Donkey Kong 3 (US).mra",
     "system": "arcade",
@@ -9814,7 +9834,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "armedf",
     "genre": "Shooter"
@@ -9834,7 +9854,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "legionj2",
     "genre": "Shooter"
@@ -9854,7 +9874,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "cclimbr2",
     "genre": "Climbing"
@@ -9874,7 +9894,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "horekid",
     "genre": "Maze"
@@ -9894,7 +9914,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "kozure",
     "genre": "Fighter"
@@ -9914,7 +9934,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "outzone",
     "genre": "Shooter"
@@ -9934,7 +9954,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "amatelas",
     "genre": "Shooter"
@@ -9954,7 +9974,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "bigfghtr",
     "genre": "Shooter"
@@ -9974,7 +9994,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "terracre",
     "genre": "Shooter"
@@ -9994,7 +10014,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "terrafj",
     "genre": "Shooter"
@@ -10014,7 +10034,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "truxton",
     "genre": "Shooter"
@@ -10034,7 +10054,7 @@
     "release_date": "2022-09-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "truxton2",
     "genre": "Shooter"
@@ -10054,7 +10074,7 @@
     "release_date": "2022-09-25",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "prehisle",
     "genre": "Shooter"
@@ -10074,7 +10094,7 @@
     "release_date": "2022-09-28",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "pow",
     "genre": "Fighter"
@@ -10094,7 +10114,7 @@
     "release_date": "2022-09-28",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "searchar",
     "genre": "Shooter"
@@ -10114,7 +10134,7 @@
     "release_date": "2022-09-28",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "streetsm",
     "genre": "Fighter"
@@ -10194,7 +10214,7 @@
     "release_date": "2022-10-19",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "ikari3",
     "genre": "Shooter"
@@ -10474,7 +10494,7 @@
     "release_date": "2022-11-16",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "gangwars",
     "genre": "Fighter"
@@ -10494,7 +10514,7 @@
     "release_date": "2022-11-16",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "skyadvnt",
     "genre": "Shooter"
@@ -10754,7 +10774,7 @@
     "release_date": "2022-12-23",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "skysoldr",
     "genre": "Shooter"
@@ -10774,7 +10794,7 @@
     "release_date": "2022-12-23",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "timesold",
     "genre": "Shooter"
@@ -10794,7 +10814,7 @@
     "release_date": "2022-12-25",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "pipibibs",
     "genre": "Platform"
@@ -11474,7 +11494,7 @@
     "release_date": "2023-03-30",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "paddlema",
     "genre": "Sports"
@@ -11494,7 +11514,7 @@
     "release_date": "2023-03-30",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "tnextspcj",
     "genre": "Shooter"
@@ -11634,7 +11654,7 @@
     "release_date": "2023-05-13",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "rodland",
     "genre": "Platform"
@@ -11694,7 +11714,7 @@
     "release_date": "2023-05-19",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "soldam",
     "genre": "Puzzle"
@@ -11714,7 +11734,7 @@
     "release_date": "2023-05-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "hellfire",
     "genre": "Shooter"
@@ -11734,7 +11754,7 @@
     "release_date": "2023-05-22",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "zerowing",
     "genre": "Shooter"
@@ -11754,7 +11774,7 @@
     "release_date": "2023-05-26",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "samesame2",
     "genre": "Shooter"
@@ -11774,7 +11794,7 @@
     "release_date": "2023-05-26",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "vimanaj",
     "genre": "Shooter"
@@ -11794,7 +11814,7 @@
     "release_date": "2023-06-02",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "rallybik",
     "genre": "Driving"
@@ -11834,7 +11854,7 @@
     "release_date": "2023-06-10",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "demonwld2",
     "genre": "Platform"
@@ -12194,7 +12214,7 @@
     "release_date": "2023-07-01",
     "last_update": "2023-07-01T20:15:25Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "p47j",
     "genre": "Shooter"
@@ -12214,7 +12234,7 @@
     "release_date": "2023-07-01",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "lordofk",
     "genre": "Platform"
@@ -12254,7 +12274,7 @@
     "release_date": "2023-07-08",
     "last_update": "2023-07-08T20:45:52Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -12274,7 +12294,7 @@
     "release_date": "2023-07-15",
     "last_update": "2023-07-15T20:42:07Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "stdragon",
     "genre": "Shooter"
@@ -12894,7 +12914,7 @@
     "release_date": "2023-09-10",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "bgaregga",
     "genre": "Shooter"
@@ -12914,7 +12934,7 @@
     "release_date": "2023-09-23",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "iganinju",
     "genre": "Platform"
@@ -12934,7 +12954,7 @@
     "release_date": "2023-09-23",
     "last_update": "2023-09-23T19:00:57Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -13054,7 +13074,7 @@
     "release_date": "2024-01-01",
     "last_update": "2024-01-01T23:11:16Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "hachoo",
     "genre": "Fighter"
@@ -13074,7 +13094,7 @@
     "release_date": "2024-01-01",
     "last_update": "2024-01-01T23:11:16Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "inyourfa",
     "genre": "Sports"
@@ -13094,7 +13114,7 @@
     "release_date": "2024-01-06",
     "last_update": "2024-01-06T20:19:17Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "jitsupro",
     "genre": "Sports"
@@ -13114,7 +13134,7 @@
     "release_date": "2024-01-06",
     "last_update": "2024-01-06T20:19:17Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "plusalph",
     "genre": "Shooter"
@@ -13314,7 +13334,7 @@
     "release_date": "2024-05-18",
     "last_update": "2024-05-19T23:28:51Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "tekipaki",
     "genre": "Puzzle"
@@ -15054,7 +15074,7 @@
     "release_date": "2025-03-31",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "batriderj",
     "genre": "Shooter"
@@ -15074,7 +15094,7 @@
     "release_date": "2025-03-31",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "bbakraidj",
     "genre": "Shooter"
@@ -15094,7 +15114,7 @@
     "release_date": "2025-03-31",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "mahoudai",
     "genre": "Shooter"
@@ -15114,7 +15134,7 @@
     "release_date": "2025-03-31",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "shippumd",
     "genre": "Shooter"
@@ -15134,7 +15154,7 @@
     "release_date": "2025-04-17",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "tmnt2",
     "genre": "Fighter"
@@ -15414,7 +15434,7 @@
     "release_date": "2025-12-14",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "hishouza",
     "genre": "Shooter"
@@ -15434,7 +15454,7 @@
     "release_date": "2025-12-14",
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "ktiger",
     "genre": "Shooter"
@@ -15454,7 +15474,7 @@
     "release_date": "2025-12-14",
     "last_update": "2025-12-14T11:33:10Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -15474,7 +15494,7 @@
     "release_date": "2025-12-26",
     "last_update": "2025-12-27T00:40:03Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "snowbrosj",
     "genre": "Platform"
@@ -15494,7 +15514,7 @@
     "release_date": "2025-12-26",
     "last_update": "2025-12-27T00:40:03Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "snowbro2",
     "genre": "Platform"
@@ -15514,7 +15534,7 @@
     "release_date": "2026-01-15",
     "last_update": "2026-01-15T17:04:58Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -16434,7 +16454,7 @@
     "release_date": "2026-03-31",
     "last_update": "2026-03-31T19:20:27Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "maniach",
     "genre": "Sports"
@@ -16454,7 +16474,7 @@
     "release_date": "2026-03-31",
     "last_update": "2026-03-31T19:20:27Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "matmania",
     "genre": "Sports"
@@ -16474,7 +16494,7 @@
     "release_date": "2026-04-01",
     "last_update": "2026-04-02T01:42:45Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": "tumblep",
     "genre": "Platform"
@@ -16494,7 +16514,7 @@
     "release_date": "2026-04-02",
     "last_update": "2026-04-03T03:48:58Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "oscar",
     "genre": "Platform"
@@ -17754,7 +17774,7 @@
     "release_date": "2026-06-14",
     "last_update": "2026-06-16T22:21:08Z",
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": "cobracom",
     "genre": "Shooter"
@@ -17934,7 +17954,7 @@
     "release_date": "2026-07-05T01:02:35+00:00",
     "last_update": null,
     "first_seen": "2026-07-05T01:02:35+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-05T01:02:35+00:00",
     "setname": "captavenu",
     "genre": "Fighter"
@@ -18394,7 +18414,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": null,
     "genre": null
@@ -18414,7 +18434,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": null,
     "genre": null
@@ -18434,7 +18454,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": "robocop2u",
     "genre": "Fighter"
@@ -18454,7 +18474,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": null,
     "genre": null
@@ -18474,7 +18494,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": "edrandy",
     "genre": "Fighter"
@@ -18514,7 +18534,7 @@
     "release_date": "2026-07-30T01:11:10+00:00",
     "last_update": null,
     "first_seen": "2026-07-30T01:11:10+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-07-30T01:11:10+00:00",
     "setname": null,
     "genre": null
@@ -18554,7 +18574,7 @@
     "release_date": "2026-07-31",
     "last_update": "2026-07-31T20:15:25Z",
     "first_seen": "2026-08-01T00:05:22+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-08-01T00:05:22+00:00",
     "setname": "dblewingb",
     "genre": "Shooter"
@@ -18574,7 +18594,7 @@
     "release_date": "2026-07-31",
     "last_update": "2026-08-01T00:04:49Z",
     "first_seen": "2026-08-01T00:05:22+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-08-01T00:05:22+00:00",
     "setname": "mutantf",
     "genre": "Fighter"
@@ -18594,7 +18614,7 @@
     "release_date": "2026-07-31",
     "last_update": "2026-07-31T22:47:05Z",
     "first_seen": "2026-08-01T00:05:22+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-08-01T00:05:22+00:00",
     "setname": "nitrobal",
     "genre": "Shooter"
@@ -18614,7 +18634,7 @@
     "release_date": "2026-08-01T00:05:22+00:00",
     "last_update": null,
     "first_seen": "2026-08-01T00:05:22+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-08-01T00:05:22+00:00",
     "setname": null,
     "genre": null
@@ -18634,7 +18654,7 @@
     "release_date": "2026-08-01T00:05:22+00:00",
     "last_update": null,
     "first_seen": "2026-08-01T00:05:22+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-08-01T00:05:22+00:00",
     "setname": null,
     "genre": null
@@ -18734,7 +18754,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -18754,7 +18774,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -18774,7 +18794,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -18794,7 +18814,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19134,7 +19154,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19234,7 +19254,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19254,7 +19274,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19294,7 +19314,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19334,7 +19354,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19354,7 +19374,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19494,7 +19514,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19514,7 +19534,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19594,7 +19614,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19634,7 +19654,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -19854,7 +19874,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20034,7 +20054,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20254,7 +20274,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20294,7 +20314,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20314,7 +20334,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20474,7 +20494,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20694,7 +20714,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20734,7 +20754,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
@@ -20934,7 +20954,7 @@
     "release_date": null,
     "last_update": null,
     "first_seen": "2026-06-16T22:21:43+00:00",
-    "last_seen": "2026-08-01T00:05:22+00:00",
+    "last_seen": "2026-08-01T18:55:11+00:00",
     "last_changed": "2026-06-16T22:21:43+00:00",
     "setname": null,
     "genre": null
