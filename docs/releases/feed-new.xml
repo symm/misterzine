@@ -6,7 +6,52 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Sun, 02 Aug 2026 07:03:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 13:29:20 +0000</lastBuildDate>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/Rohga - Armor Force (World, v5.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (Hong Kong, v3.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (US, v1.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (World, v3.0 set 1).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (World, v3.0 set 2).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Wizard Fire (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
@@ -861,51 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cabal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / TAD Corporation&lt;/p&gt;&lt;p&gt;Core: jttoki&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/toki"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Cabal (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cabal</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Cabal/Cabal (UK, Joystick).mra:2026-07-05T21:10:17+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 21:10:17 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cabal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / TAD Corporation&lt;/p&gt;&lt;p&gt;Core: jttoki&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/toki"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Cabal (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cabal</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Cabal/Cabal (UK, Joystick).mra:2026-07-05T21:10:17+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 21:10:17 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cabal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / TAD Corporation&lt;/p&gt;&lt;p&gt;Core: jttoki&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/toki"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/Captain America and The Avengers (US, Rev 1.9).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/Captain America and The Avengers (US, Rev 1.9).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Captain America and The Avengers/Captain America and The Avengers (Asia, Rev 1.0).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

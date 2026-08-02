@@ -6,7 +6,61 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sun, 02 Aug 2026 07:32:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 13:29:20 +0000</lastBuildDate>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/Rohga - Armor Force (World, v5.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (Hong Kong, v3.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (US, v1.0).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (World, v3.0 set 1).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Rohga: Armor Force (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Rohga - Armor Force/Rohga - Armor Force (World, v3.0 set 2).mra:2026-08-02T13:29:20+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 13:29:20 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/rohga.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: rohga_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Super Game Boy (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#SGB</link>
+<guid isPermaLink="false">distribution_mister:_Console/SGB_20260802.rbf:2026-08-02T11:07:27+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 11:07:27 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1994 / Nintendo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/SGB_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Repulse (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#repulse</link>
@@ -852,60 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cprogolf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Pro Soccer (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cpsoccer</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Pro Soccer (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cpsoccer.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1983 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Pro Tennis (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cptennis</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Pro Tennis (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cptennis.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1982 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Rootin' Tootin' (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#clapapa2</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Rootin' Tootin' (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/clapapa2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1983 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Scrum Try (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cscrtry</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Scrum Try (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cscrtry.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1984 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Skater (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cskater</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Skater (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cskater.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1983 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Super Astro Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#csuperas</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Super Astro Fighter (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csuperas.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
