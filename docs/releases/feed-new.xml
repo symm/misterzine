@@ -6,7 +6,34 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Sun, 02 Aug 2026 01:31:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 07:03:44 +0000</lastBuildDate>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/Wizard Fire (World, v2.1).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Wizard Fire/Wizard Fire (US, v1.1).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Wizard Fire/Wizard Fire (World, v1.0).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Super Burger Time (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#supbtime</link>
@@ -875,33 +902,6 @@
 <title>[New] Captain America and The Avengers (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
 <guid isPermaLink="false">coinop:_Arcade/_alternatives/_Captain America and The Avengers/Captain America and The Avengers (Asia, Rev 1.0).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Captain America and The Avengers/Captain America and The Avengers (Asia, Rev 1.0).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Captain America and The Avengers/Captain America and The Avengers (Asia, Rev 1.4).mra:2026-07-05T01:02:35+00:00</guid>
-<pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/captavenu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: captaven&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-05 (source: coinop).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Captain America and The Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#captavenu</link>
-<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Captain America and The Avengers/Captain America and The Avengers (Asia, Rev 1.4).mra:2026-07-05T01:02:35+00:00</guid>
 <pubDate>Sun, 05 Jul 2026 01:02:35 +0000</pubDate>
 <category>new</category>
 <category>Arcade</category>

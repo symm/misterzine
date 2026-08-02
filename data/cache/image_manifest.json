@@ -8494,5 +8494,14 @@
   "snap_img": "ingames/supbtime.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Wizard Fire",
+  "setname": "wizdfire",
+  "source": "adb",
+  "title_img": "titles/wizdfire.png",
+  "snap_img": "ingames/wizdfire.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]

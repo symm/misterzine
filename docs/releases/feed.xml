@@ -6,7 +6,43 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sun, 02 Aug 2026 01:31:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 07:32:51 +0000</lastBuildDate>
+<item>
+<title>[Updated] Repulse (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#repulse</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Repulse.mra:2026-08-02T07:32:51+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:32:51 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/repulse.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1985 / Sega&lt;/p&gt;&lt;p&gt;Core: Kyugo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Kyugo_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/Wizard Fire (World, v2.1).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Wizard Fire/Wizard Fire (US, v1.1).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Wizard Fire (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#wizdfire</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Wizard Fire/Wizard Fire (World, v1.0).mra:2026-08-02T07:03:44+00:00</guid>
+<pubDate>Sun, 02 Aug 2026 07:03:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wizdfire.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: wizdfire_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-02 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Super Burger Time (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#supbtime</link>
@@ -870,42 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csuperas.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Super Doubles Tennis (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#csdtenis</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Super Doubles Tennis (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csdtenis.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1983 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Sweet Heart (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#csweetht</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Sweet Heart (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csweetht.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1982 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Terranean (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cterrani</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Terranean (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cterrani.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] The Tower (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ctower</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/The Tower (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ctower.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Climbing / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
