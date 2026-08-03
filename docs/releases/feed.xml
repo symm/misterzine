@@ -6,7 +6,52 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sun, 02 Aug 2026 13:29:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 16:25:16 +0000</lastBuildDate>
+<item>
+<title>[Updated] Freeze (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#freeze</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Freeze.mra:2026-08-03T16:25:16+00:00</guid>
+<pubDate>Mon, 03 Aug 2026 16:25:16 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/freeze.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1984 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: freeze&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Freeze_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Jack the Giantkiller (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#jack</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Jack the Giantkiller (set 1).mra:2026-08-03T16:25:16+00:00</guid>
+<pubDate>Mon, 03 Aug 2026 16:25:16 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/jack.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Climbing / 1982 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: freeze&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Freeze_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Super Casino (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#sucasino</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Super Casino.mra:2026-08-03T16:25:16+00:00</guid>
+<pubDate>Mon, 03 Aug 2026 16:25:16 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sucasino.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Gambling / 1984 / Data Amusement&lt;/p&gt;&lt;p&gt;Core: freeze&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Freeze_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Tri-Pool: 3-In-One (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#tripool</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Tri-Pool (Casino Tech).mra:2026-08-03T16:25:16+00:00</guid>
+<pubDate>Mon, 03 Aug 2026 16:25:16 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tripool.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1984 / Noma (Casino Tech license)&lt;/p&gt;&lt;p&gt;Core: freeze&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Freeze_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Zzyzzyxx (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#zzyzzyxx</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Zzyzzyxx (set 1).mra:2026-08-03T16:25:16+00:00</guid>
+<pubDate>Mon, 03 Aug 2026 16:25:16 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/zzyzzyxx.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1984 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: freeze&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Freeze_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Rohga: Armor Force (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#rohga</link>
@@ -861,51 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cocean1a.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Gambling / 1981 / Data East Corporation&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Oozumou - The Grand Sumo (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#coozumou</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Oozumou - Grand Sumo (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/coozumou.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1984 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Peter Pepper's Ice Cream Factory (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cppicf</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Peter Pepper's Ice Cream Factory (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cppicf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1984 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Planet Probe (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#pprobe</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Planet Probe.mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/pprobe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1985 / Crux/Kyugo?&lt;/p&gt;&lt;p&gt;Core: Vastar&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Vastar_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Pro Bowling (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cprobowl</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Pro Bowling (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cprobowl.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1983 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Pro Golf (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#pro-golf</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Pro Golf (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cprogolf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
