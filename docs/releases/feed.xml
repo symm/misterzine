@@ -6,7 +6,34 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Tue, 04 Aug 2026 08:08:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 17:23:38 +0000</lastBuildDate>
+<item>
+<title>[Updated] Fantasy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#fantasyu</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Fantasy.mra:2026-08-04T17:23:38+00:00</guid>
+<pubDate>Tue, 04 Aug 2026 17:23:38 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/fantasyu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1981 / SNK&lt;/p&gt;&lt;p&gt;Core: SNK6502&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-04 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SNK6502_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Vanguard (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#vanguard</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Vanguard.mra:2026-08-04T17:23:38+00:00</guid>
+<pubDate>Tue, 04 Aug 2026 17:23:38 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vanguard.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / SNK&lt;/p&gt;&lt;p&gt;Core: SNK6502&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-04 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SNK6502_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] VirtualBoy (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#VirtualBoy</link>
+<guid isPermaLink="false">distribution_mister:_Console/VirtualBoy_20260804.rbf:2026-08-04T17:23:38+00:00</guid>
+<pubDate>Tue, 04 Aug 2026 17:23:38 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;Updated in the public MiSTer databases on 2026-08-04 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/VirtualBoy_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Sasuke vs. Commander (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#sasuke</link>
@@ -879,33 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/chwy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Juno First (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#junofrst</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Juno First.mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/junofrst.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1983 / Konami&lt;/p&gt;&lt;p&gt;Core: JunoFirst&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-JunoFirst_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Legend (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#legend</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Legend.mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/legend.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: Kyugo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Kyugo_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Lock'n'Chase (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#clocknch</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Lock'n'Chase (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/clocknch.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
