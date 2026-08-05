@@ -6,7 +6,43 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Wed, 05 Aug 2026 06:13:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 17:09:51 +0000</lastBuildDate>
+<item>
+<title>[New] Asteroids Deluxe (v3 green) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroids-deluxe-v3-green</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids Deluxe (v3 green).mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/astdelux.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Asteroids Deluxe (v3 orange) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroids-deluxe-v3-orange</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids Deluxe (v3 orange).mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/astdelux.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Asteroids (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroid</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids.mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/asteroid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Lunar Lander (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#llander</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Lunar Lander.mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/llander.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] The Electric Yo-Yo (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#elecyoyo</link>
@@ -870,42 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/decodark.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;MultiGame / 2022 / bootleg (Darksoft)&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] DECO Test Tape (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ctsttape</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/DECO Test Tape (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ctsttape.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Utilities / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] DS Telejan (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cdsteljn</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/DS Telejan (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cdsteljn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Fighting Ice Hockey (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cfghtice</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Fighting Ice Hockey (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cfghtice.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1984 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Flash Boy (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cfboy0a1</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Flash Boy (DECO).mra:2026-07-31T20:47:33+00:00</guid>
-<pubDate>Fri, 31 Jul 2026 20:47:33 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cfboy0a1.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Data East Corporation&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

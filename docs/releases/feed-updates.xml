@@ -6,7 +6,25 @@
 <description>Shipped updates to existing cores and arcade games in the public MiSTer databases. See feed.xml for new releases too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-updates.xml"/>
-<lastBuildDate>Wed, 05 Aug 2026 06:13:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 17:09:51 +0000</lastBuildDate>
+<item>
+<title>[Updated] Asteroids (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroid</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids.mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/asteroid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Lunar Lander (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#llander</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Lunar Lander.mra:2026-08-05T17:09:51+00:00</guid>
+<pubDate>Wed, 05 Aug 2026 17:09:51 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/llander.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] The Electric Yo-Yo (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#elecyoyo</link>
@@ -888,24 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/raiden.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1990 / Seibu Kaihatsu&lt;/p&gt;&lt;p&gt;Core: Raiden&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-31 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Raiden_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Planet Probe (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#pprobe</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Planet Probe.mra:2026-07-30T18:52:10+00:00</guid>
-<pubDate>Thu, 30 Jul 2026 18:52:10 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/pprobe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1985 / Crux/Kyugo?&lt;/p&gt;&lt;p&gt;Core: Vastar&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-30 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Vastar_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Tetris (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#atetris</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Tetris.mra:2026-07-30T18:52:10+00:00</guid>
-<pubDate>Thu, 30 Jul 2026 18:52:10 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/atetris.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1988 / Atari&lt;/p&gt;&lt;p&gt;Core: ataritetris&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-07-30 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
