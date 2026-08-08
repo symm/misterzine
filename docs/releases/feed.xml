@@ -6,7 +6,43 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sat, 08 Aug 2026 06:52:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 18:36:36 +0000</lastBuildDate>
+<item>
+<title>[Updated] Boogie Wings (Euro v1.5, 92.12.07) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#boogwing</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Boogie Wings (Euro v1.5, 92.12.07).mra:2026-08-08T18:36:36+00:00</guid>
+<pubDate>Sat, 08 Aug 2026 18:36:36 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/boogwing.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: BoogieWings&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-08 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-BoogieWings_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Godzilla (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#godzilla</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Godzilla (Japan).mra:2026-08-08T18:36:36+00:00</guid>
+<pubDate>Sat, 08 Aug 2026 18:36:36 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/godzilla.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1993 / Banpresto&lt;/p&gt;&lt;p&gt;Core: Godzilla&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-08 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Godzilla_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Night Slashers (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#nslasher</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Night Slashers (Korea Rev 1.3, DE-0397-0 PCB).mra:2026-08-08T18:36:36+00:00</guid>
+<pubDate>Sat, 08 Aug 2026 18:36:36 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/nslasher.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1993 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: NightSlashers&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-08 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-NightSlashers_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Trio The Punch - Never Forget Me... (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#triothep</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Trio The Punch (World).mra:2026-08-08T18:36:36+00:00</guid>
+<pubDate>Sat, 08 Aug 2026 18:36:36 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/triothep.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: TrioThePunch&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-08 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-TrioThePunch_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] PlayStation (Console core)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#PSX</link>
@@ -870,42 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cfboy0a1.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Flying Ball (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#cflyball</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Flying Ball (DECO).mra:2026-08-02T01:13:41+00:00</guid>
-<pubDate>Sun, 02 Aug 2026 01:13:41 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cflyball.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Ball &amp;amp; Paddle / 1985 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Hamburger (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#chamburger</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hamburger (Japan) (DECO).mra:2026-08-02T01:13:41+00:00</guid>
-<pubDate>Sun, 02 Aug 2026 01:13:41 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/chamburger.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1982 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Highway Chase (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#chwy</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Highway Chase (DECO).mra:2026-08-02T01:13:41+00:00</guid>
-<pubDate>Sun, 02 Aug 2026 01:13:41 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/chwy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Lock'n'Chase (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#clocknch</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Lock'n'Chase (DECO).mra:2026-08-02T01:13:41+00:00</guid>
-<pubDate>Sun, 02 Aug 2026 01:13:41 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/clocknch.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1981 / Data East&lt;/p&gt;&lt;p&gt;Core: DECOCassette&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-02 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DECOCassette_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

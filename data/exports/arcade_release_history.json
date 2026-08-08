@@ -18,6 +18,15 @@
     "crawled_at": "2026-08-05T19:53:51+00:00"
   },
   {
+    "repo": "MiSTer-devel/Arcade-Godzilla_MiSTer",
+    "core": "Arcade-Godzilla",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-Godzilla_MiSTer",
+    "first_commit": "2026-07-24T13:56:23Z",
+    "last_commit": "2026-08-08T17:52:12Z",
+    "commits": 2,
+    "crawled_at": "2026-08-08T18:57:47+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-Tempest_MiSTer",
     "core": "Arcade-Tempest",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Tempest_MiSTer",
@@ -67,18 +76,18 @@
     "core": "Arcade-NightSlashers",
     "html_url": "https://github.com/MiSTer-devel/Arcade-NightSlashers_MiSTer",
     "first_commit": "2026-07-10T22:43:10Z",
-    "last_commit": "2026-07-19T16:30:26Z",
-    "commits": 2,
-    "crawled_at": "2026-07-19T19:31:33+00:00"
+    "last_commit": "2026-08-08T16:20:23Z",
+    "commits": 4,
+    "crawled_at": "2026-08-08T18:57:47+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-TrioThePunch_MiSTer",
     "core": "Arcade-TrioThePunch",
     "html_url": "https://github.com/MiSTer-devel/Arcade-TrioThePunch_MiSTer",
     "first_commit": "2026-07-08T17:11:07Z",
-    "last_commit": "2026-07-08T17:11:07Z",
-    "commits": 1,
-    "crawled_at": "2026-07-10T00:57:40+00:00"
+    "last_commit": "2026-08-08T16:19:26Z",
+    "commits": 3,
+    "crawled_at": "2026-08-08T18:57:46+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-GulfWarII_MiSTer",
@@ -112,9 +121,9 @@
     "core": "Arcade-BoogieWings",
     "html_url": "https://github.com/MiSTer-devel/Arcade-BoogieWings_MiSTer",
     "first_commit": "2026-06-14T14:56:07Z",
-    "last_commit": "2026-07-08T14:08:41Z",
-    "commits": 3,
-    "crawled_at": "2026-07-08T18:45:15+00:00"
+    "last_commit": "2026-08-08T16:20:59Z",
+    "commits": 5,
+    "crawled_at": "2026-08-08T18:57:46+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-CaveBanpresto_MiSTer",
