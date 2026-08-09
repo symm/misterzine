@@ -754,14 +754,5 @@
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/nslasher.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1993 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: NightSlashers&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-NightSlashers_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
-<item>
-<title>[New] Trio The Punch - Never Forget Me... (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#triothep</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Trio The Punch (World).mra:2026-07-09T19:13:45+00:00</guid>
-<pubDate>Thu, 09 Jul 2026 19:13:45 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/triothep.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: TrioThePunch&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-09 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-TrioThePunch_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
 </channel>
 </rss>
