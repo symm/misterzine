@@ -6,7 +6,43 @@
 <description>Shipped updates to existing cores and arcade games in the public MiSTer databases. See feed.xml for new releases too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-updates.xml"/>
-<lastBuildDate>Mon, 10 Aug 2026 01:41:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 11:18:13 +0000</lastBuildDate>
+<item>
+<title>[Updated] Asteroids Deluxe (v3 green) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroids-deluxe-v3-green</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids Deluxe (v3 green).mra:2026-08-10T11:18:13+00:00</guid>
+<pubDate>Mon, 10 Aug 2026 11:18:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/astdelux.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Asteroids Deluxe (v3 orange) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroids-deluxe-v3-orange</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids Deluxe (v3 orange).mra:2026-08-10T11:18:13+00:00</guid>
+<pubDate>Mon, 10 Aug 2026 11:18:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/astdelux.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1980 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Asteroids (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#asteroid</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Asteroids.mra:2026-08-10T11:18:13+00:00</guid>
+<pubDate>Mon, 10 Aug 2026 11:18:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/asteroid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Lunar Lander (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#llander</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Lunar Lander.mra:2026-08-10T11:18:13+00:00</guid>
+<pubDate>Mon, 10 Aug 2026 11:18:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/llander.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1979 / Atari&lt;/p&gt;&lt;p&gt;Core: Asteroids&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Asteroids_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Freeze (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#freeze</link>
@@ -866,42 +902,6 @@
 <title>[Updated] Teenage Mutant Ninja Turtles (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#tmnt</link>
 <guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Asia 4 Players, version x).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1989 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Teenage Mutant Ninja Turtles (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tmnt</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Japan 2 Players, version 1).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1989 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Teenage Mutant Ninja Turtles (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tmnt</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Japan 4 Players, version 2).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1989 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Teenage Mutant Ninja Turtles (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tmnt</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (Oceania 2 Players, version x).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1989 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Teenage Mutant Ninja Turtles (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tmnt</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles (US 4 Players, version H).mra:2026-08-09T20:24:39+00:00</guid>
 <pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
 <category>updated</category>
 <category>Arcade</category>
