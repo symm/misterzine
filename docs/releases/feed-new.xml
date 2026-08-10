@@ -6,7 +6,304 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Sat, 08 Aug 2026 18:36:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 01:41:26 +0000</lastBuildDate>
+<item>
+<title>[New] SD Gundam Sangokushi Rainbow Tairiku Senki (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#grainbow</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/SD Gundam Sangokushi Rainbow Tairiku Senki (Japan).mra:2026-08-10T01:41:26+00:00</guid>
+<pubDate>Mon, 10 Aug 2026 01:41:26 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/grainbow.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1993 / Banpresto&lt;/p&gt;&lt;p&gt;Core: SDGundamRainbow&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SDGundamRainbow_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Double Dribble (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ddribble</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Double Dribble.mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ddribble.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1986 / Konami&lt;/p&gt;&lt;p&gt;Core: jtddrbl&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/ddrbl"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Golfing Greats (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#glfgreat</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Golfing Greats (World, version L).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/glfgreat.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Lightning Fighters (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#lgtnfght</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Lightning Fighters (World).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/lgtnfght.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1990 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Street Fighter II' Champion Re-Edit (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#sf2cre</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Street Fighter II' Champion Re-Edit (Hack, v0.29.7).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;1992 / Capcom&lt;/p&gt;&lt;p&gt;Core: jtcps1&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/cps1"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Street Fighter II' Special Champion Edition (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#sf2hfsce</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Street Fighter II' Special Champion Edition (Sr Street hack).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;1992 / Capcom&lt;/p&gt;&lt;p&gt;Core: jtcps1&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/cps1"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Sunset Riders (4 Players ver EAC).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Teenage Mutant Ninja Turtles Turtles in Time (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#teenage-mutant-ninja-turtles-turtles-in-time-2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver UAA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Cross II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndrx2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/Thunder Cross II (World).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndrx2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Double Dribble (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ddribble</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Double Dribble/Double Dribble (prototypex).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ddribble.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1986 / Konami&lt;/p&gt;&lt;p&gt;Core: jtddrbl&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/ddrbl"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Golfing Greats (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#glfgreat</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Golfing Greats/Golfing Greats (US, version K).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/glfgreat.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Lightning Fighters (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#lgtnfght</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Lightning Fighters/Lightning Fighters (Asia).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/lgtnfght.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1990 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Lightning Fighters (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#lgtnfght</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Lightning Fighters/Lightning Fighters (US).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/lgtnfght.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1990 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Out Run (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#outrun</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Out Run/Out Run (sitdown-upright, Rev B) (added music).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/outrun.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jtoutrun&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/outrun"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver ABD).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver EBC).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver EBD).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver JBD).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver UBC).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver ADD).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver EAA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver JAC).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver JAD).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver UAB).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver UAC).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Sunset Riders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver UDA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Teenage Mutant Ninja Turtles Turtles in Time (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#teenage-mutant-ninja-turtles-turtles-in-time-2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles Turtles in Time/Teenage Mutant Ninja Turtles Turtles in Time (2 Players ver UDA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Teenage Mutant Ninja Turtles Turtles in Time (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#teenage-mutant-ninja-turtles-turtles-in-time-2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles Turtles in Time/Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver ADA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Teenage Mutant Ninja Turtles Turtles in Time (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#teenage-mutant-ninja-turtles-turtles-in-time-2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles Turtles in Time/Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver OAA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Teenage Mutant Ninja Turtles Turtles in Time (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#teenage-mutant-ninja-turtles-turtles-in-time-2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Teenage Mutant Ninja Turtles Turtles in Time/Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver UEA).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tmnt2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Cross II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndrx2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Thunder Cross II/Thunder Cross II (Asia).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndrx2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Cross II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndrx2</link>
+<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Thunder Cross II/Thunder Cross II (Japan).mra:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndrx2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jttmnt&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/tmnt"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] NeoGeoPocket-Color (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#NeoGeoPocket-Color</link>
+<guid isPermaLink="false">jtbindb:_Console/NeoGeoPocket-Color.rbf:2026-08-09T20:24:39+00:00</guid>
+<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
+<category>new</category>
+<category>Console core</category>
+<description>&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Godzilla (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#godzilla</link>
@@ -609,150 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/11beat.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1998 / Hudson Soft&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hanabi de Doon! - Don-chan Puzzle (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#doncdoon</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hanabi de Doon! - Don-chan Puzzle.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/doncdoon.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 2003 / Aruze&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hi Pai Paradise 2 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hipai2</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hi Pai Paradise 2.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hipai2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2004 / Aruze / Seta / Paon&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Hi Pai Paradise (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hipai</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Hi Pai Paradise.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hipai.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2003 / Aruze / Seta&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Kurukuru Fever (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#kurufev</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Kurukuru Fever.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/kurufev.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 2003 / Aruze / Takumi&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Magical Tetris Challenge (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#mtetrisc</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Magical Tetris Challenge (981009 Japan).mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mtetrisc.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1998 / Capcom&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Mayjinsen 3 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#mayjin3</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Mayjinsen 3.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mayjin3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2000 / Seta / Able Corporation&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Star Soldier: Vanishing Earth (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#starsldr</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Star Soldier - Vanishing Earth.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/starsldr.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1998 / Hudson Soft / Seta&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Super Real Mahjong VS (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#srmvs</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Super Real Mahjong VS (Rev A).mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/srmvs.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 1999 / Seta&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Tower &amp; Shaft (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#twrshaft</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Tower &amp; Shaft.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/twrshaft.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 2003 / Aruze&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Vivid Dolls (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#vivdolls</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Vivid Dolls.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vivdolls.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1998 / Visco&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] 3DO (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#3DO</link>
-<guid isPermaLink="false">distribution_mister:_Console/3DO_20260717.rbf:2026-07-17T18:20:00+00:00</guid>
-<pubDate>Fri, 17 Jul 2026 18:20:00 +0000</pubDate>
-<category>new</category>
-<category>Console core</category>
-<description>&lt;p&gt;New in the public MiSTer databases on 2026-07-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/3DO_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Heated Barrel (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#heatbrl</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Heated Barrel (World version 3).mra:2026-07-15T18:35:56+00:00</guid>
-<pubDate>Wed, 15 Jul 2026 18:35:56 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/heatbrl.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / TAD Corporation&lt;/p&gt;&lt;p&gt;Core: HeatedBarrel&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-15 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-HeatedBarrel_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Legionnaire (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#legionna</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Legionnaire (World).mra:2026-07-15T10:29:27+00:00</guid>
-<pubDate>Wed, 15 Jul 2026 10:29:27 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/legionna.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1992 / Tad Corporation&lt;/p&gt;&lt;p&gt;Core: Legionnaire&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-15 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Legionnaire_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Apple Lisa (Computer core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#Apple-Lisa</link>
-<guid isPermaLink="false">distribution_mister:_Computer/Apple-Lisa_20260712.rbf:2026-07-13T05:56:57+00:00</guid>
-<pubDate>Mon, 13 Jul 2026 05:56:57 +0000</pubDate>
-<category>new</category>
-<category>Computer core</category>
-<description>&lt;p&gt;1983 / Apple&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-13 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Apple-Lisa_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Apple IIGS (Computer core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#Apple-IIgs</link>
-<guid isPermaLink="false">distribution_mister:_Computer/Apple-IIgs_20260712.rbf:2026-07-12T23:54:24+00:00</guid>
-<pubDate>Sun, 12 Jul 2026 23:54:24 +0000</pubDate>
-<category>new</category>
-<category>Computer core</category>
-<description>&lt;p&gt;1986 / Apple&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-12 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Apple-IIgs_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Night Slashers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#nslasher</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Night Slashers (Korea Rev 1.3, DE-0397-0 PCB).mra:2026-07-10T23:10:44+00:00</guid>
-<pubDate>Fri, 10 Jul 2026 23:10:44 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/nslasher.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1993 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: NightSlashers&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-10 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-NightSlashers_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

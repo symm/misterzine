@@ -18,6 +18,15 @@
     "crawled_at": "2026-08-05T19:53:51+00:00"
   },
   {
+    "repo": "MiSTer-devel/Arcade-SDGundamRainbow_MiSTer",
+    "core": "Arcade-SDGundamRainbow",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-SDGundamRainbow_MiSTer",
+    "first_commit": "2026-07-24T13:56:28Z",
+    "last_commit": "2026-08-09T09:09:10Z",
+    "commits": 2,
+    "crawled_at": "2026-08-10T02:34:06+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-Godzilla_MiSTer",
     "core": "Arcade-Godzilla",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Godzilla_MiSTer",

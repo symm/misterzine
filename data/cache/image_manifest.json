@@ -8548,5 +8548,86 @@
   "snap_img": "ingames/godzilla.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Street Fighter II' Champion Re-Edit",
+  "setname": "sf2cre",
+  "source": null,
+  "title_img": null,
+  "snap_img": null,
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Street Fighter II' Special Champion Edition",
+  "setname": "sf2hfsce",
+  "source": null,
+  "title_img": null,
+  "snap_img": null,
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "SD Gundam Sangokushi Rainbow Tairiku Senki",
+  "setname": "grainbow",
+  "source": "adb",
+  "title_img": "titles/grainbow.png",
+  "snap_img": "ingames/grainbow.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Double Dribble",
+  "setname": "ddribble",
+  "source": "adb",
+  "title_img": "titles/ddribble.png",
+  "snap_img": "ingames/ddribble.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Golfing Greats",
+  "setname": "glfgreat",
+  "source": "adb",
+  "title_img": "titles/glfgreat.png",
+  "snap_img": "ingames/glfgreat.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Lightning Fighters",
+  "setname": "lgtnfght",
+  "source": "adb",
+  "title_img": "titles/lgtnfght.png",
+  "snap_img": "ingames/lgtnfght.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Sunset Riders",
+  "setname": "ssriders",
+  "source": "adb",
+  "title_img": "titles/ssriders.png",
+  "snap_img": "ingames/ssriders.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Teenage Mutant Ninja Turtles Turtles in Time",
+  "setname": "tmnt2",
+  "source": "adb",
+  "title_img": "titles/tmnt2.png",
+  "snap_img": "ingames/tmnt2.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Thunder Cross II",
+  "setname": "thndrx2",
+  "source": "adb",
+  "title_img": "titles/thndrx2.png",
+  "snap_img": "ingames/thndrx2.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]
