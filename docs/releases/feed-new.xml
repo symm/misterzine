@@ -6,7 +6,16 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Mon, 10 Aug 2026 01:41:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 18:13:07 +0000</lastBuildDate>
+<item>
+<title>[New] Klax (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#klax</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Klax.mra:2026-08-12T18:13:07+00:00</guid>
+<pubDate>Wed, 12 Aug 2026 18:13:07 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/klax.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1990 / Atari Games&lt;/p&gt;&lt;p&gt;Core: Klax&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-12 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Klax_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] SD Gundam Sangokushi Rainbow Tairiku Senki (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#grainbow</link>
@@ -897,15 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tempest.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Atari&lt;/p&gt;&lt;p&gt;Core: Tempest&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Tempest_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Eleven Beat (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#11beat</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Eleven Beat.mra:2026-07-20T16:14:06+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 16:14:06 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/11beat.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1998 / Hudson Soft&lt;/p&gt;&lt;p&gt;Core: Aleck64&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

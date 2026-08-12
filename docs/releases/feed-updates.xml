@@ -6,7 +6,16 @@
 <description>Shipped updates to existing cores and arcade games in the public MiSTer databases. See feed.xml for new releases too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-updates.xml"/>
-<lastBuildDate>Tue, 11 Aug 2026 05:54:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 18:13:07 +0000</lastBuildDate>
+<item>
+<title>[Updated] MultiComp (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#MultiComp</link>
+<guid isPermaLink="false">distribution_mister:_Computer/MultiComp_20260809.rbf:2026-08-12T18:13:07+00:00</guid>
+<pubDate>Wed, 12 Aug 2026 18:13:07 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;2013 / DIY (Grant Searle)&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-12 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/MultiComp_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Jaguar (Console core)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#Jaguar</link>
@@ -893,15 +902,6 @@
 <title>[Updated] Shinobi (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#shinobi</link>
 <guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Shinobi/Shinobi (set 3, System 16B) (MC-8123B 317-0054).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Shinobi (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#shinobi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Shinobi/Shinobi (set 5, System 16B) (unprotected).mra:2026-08-09T20:24:39+00:00</guid>
 <pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
 <category>updated</category>
 <category>Arcade</category>
