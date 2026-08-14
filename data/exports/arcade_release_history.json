@@ -1,5 +1,14 @@
 [
   {
+    "repo": "MiSTer-devel/Arcade-SegaG80V_MiSTer",
+    "core": "Arcade-SegaG80V",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer",
+    "first_commit": "2026-08-14T11:51:56Z",
+    "last_commit": "2026-08-14T11:51:56Z",
+    "commits": 1,
+    "crawled_at": "2026-08-14T19:13:03+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-Klax_MiSTer",
     "core": "Arcade-Klax",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Klax_MiSTer",
@@ -789,7 +798,7 @@
     "first_commit": "2021-05-02T20:53:45Z",
     "last_commit": "2026-06-02T16:24:59Z",
     "commits": 151,
-    "crawled_at": "2026-08-08T02:20:54+00:00"
+    "crawled_at": "2026-08-14T19:13:03+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-IremM92_MiSTer",
