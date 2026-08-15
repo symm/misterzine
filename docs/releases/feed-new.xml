@@ -6,7 +6,61 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Wed, 12 Aug 2026 18:13:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:42:19 +0000</lastBuildDate>
+<item>
+<title>[New] Thunder Zone (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndzone</link>
+<guid isPermaLink="false">coinop:_Arcade/Thunder Zone (World, Rev 1).mra:2026-08-14T22:42:19+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 22:42:19 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: thndzone_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Zone (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndzone</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Thunder Zone/Thunder Zone (Japan).mra:2026-08-14T22:42:19+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 22:42:19 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: thndzone_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Zone (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndzone</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Thunder Zone/Thunder Zone (World).mra:2026-08-14T22:42:19+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 22:42:19 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: thndzone_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Thunder Zone (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#thndzone</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Thunder Zone/Thunder Zone (World, 4 Players).mra:2026-08-14T22:42:19+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 22:42:19 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/thndzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: thndzone_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Star Trek (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#startrek</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Star Trek.mra:2026-08-14T21:57:33+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 21:57:33 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/startrek.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1982 / Sega&lt;/p&gt;&lt;p&gt;Core: Arcade-SegaG80V&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Tac/Scan (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#tacscan</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Tac-Scan.mra:2026-08-14T21:57:33+00:00</guid>
+<pubDate>Fri, 14 Aug 2026 21:57:33 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tacscan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1982 / Sega&lt;/p&gt;&lt;p&gt;Core: Arcade-SegaG80V&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-14 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Klax (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#klax</link>
@@ -852,60 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/junglek.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1982 / Taito Corporation&lt;/p&gt;&lt;p&gt;Core: TaitoSJ&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-TaitoSystemSJ_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Premier Soccer (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#prmrsocr</link>
-<guid isPermaLink="false">jtbindb:_Arcade/Premier Soccer (ver EAB).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/prmrsocr.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1993 / Konami&lt;/p&gt;&lt;p&gt;Core: jtprmr&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/prmr"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Premier Soccer (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#prmrsocr</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Premier Soccer/Premier Soccer (ver JAB).mra:2026-07-24T19:01:55+00:00</guid>
-<pubDate>Fri, 24 Jul 2026 19:01:55 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/prmrsocr.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1993 / Konami&lt;/p&gt;&lt;p&gt;Core: jtprmr&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-24 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/prmr"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Dark Seal (World revision 3) (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#dark-seal-world-revision-3</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dark Seal (World revision 3).mra:2026-07-23T21:32:22+00:00</guid>
-<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/darkseal.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Vapor Trail - Hyper Offence Formation (World revision 1) (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#vapor-trail-hyper-offence-formation-world-revision-1</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Vapor Trail - Hyper Offence Formation (World revision 1).mra:2026-07-23T21:32:22+00:00</guid>
-<pubDate>Thu, 23 Jul 2026 21:32:22 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vaportra.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: Deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] AtariLynx2P (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#AtariLynx2P</link>
-<guid isPermaLink="false">distribution_mister:_Console/AtariLynx2P_20260713.rbf:2026-07-22T01:06:18+00:00</guid>
-<pubDate>Wed, 22 Jul 2026 01:06:18 +0000</pubDate>
-<category>new</category>
-<category>Console core</category>
-<description>&lt;p&gt;New in the public MiSTer databases on 2026-07-22 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Tempest (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tempest</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Tempest.mra:2026-07-20T23:38:11+00:00</guid>
-<pubDate>Mon, 20 Jul 2026 23:38:11 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tempest.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Atari&lt;/p&gt;&lt;p&gt;Core: Tempest&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-07-20 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Tempest_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
