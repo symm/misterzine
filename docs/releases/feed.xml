@@ -6,7 +6,34 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sat, 15 Aug 2026 20:46:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:49:58 +0000</lastBuildDate>
+<item>
+<title>[Updated] The Empire Strikes Back (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#esb</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Empire Strikes Back.mra:2026-08-16T13:49:58+00:00</guid>
+<pubDate>Sun, 16 Aug 2026 13:49:58 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/esb.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1985 / Atari&lt;/p&gt;&lt;p&gt;Core: StarWars&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-StarWars_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Star Wars (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#starwars</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Star Wars (Rev 2).mra:2026-08-16T13:49:58+00:00</guid>
+<pubDate>Sun, 16 Aug 2026 13:49:58 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/starwars.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1983 / Atari&lt;/p&gt;&lt;p&gt;Core: StarWars&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-StarWars_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Toobin' (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#toobin</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Toobin.mra:2026-08-16T13:49:58+00:00</guid>
+<pubDate>Sun, 16 Aug 2026 13:49:58 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/toobin.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1988 / Atari Games&lt;/p&gt;&lt;p&gt;Core: Toobin&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-16 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Toobin_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] G.I. Joe (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
@@ -879,33 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Shinobi (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#shinobi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Shinobi/Shinobi (set 4, System 16B) (MC-8123B 317-0054).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Shinobi (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#shinobi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Shinobi/Shinobi (set 5, System 16B) (unprotected).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Tetris (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#atetris</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Tetris/Tetris (Set 3, Japan, S16A) [FD1094 317-0093a].mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/atetris.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1988 / Atari&lt;/p&gt;&lt;p&gt;Core: ataritetris&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
