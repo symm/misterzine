@@ -1,5 +1,14 @@
 [
   {
+    "repo": "MiSTer-devel/Arcade-PsikyoSH2_MiSTer",
+    "core": "Arcade-PsikyoSH2",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer",
+    "first_commit": "2026-08-16T12:05:18Z",
+    "last_commit": "2026-08-16T12:05:18Z",
+    "commits": 1,
+    "crawled_at": "2026-08-16T12:59:42+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-SegaG80V_MiSTer",
     "core": "Arcade-SegaG80V",
     "html_url": "https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer",
@@ -7,6 +16,15 @@
     "last_commit": "2026-08-14T11:51:56Z",
     "commits": 1,
     "crawled_at": "2026-08-14T19:13:03+00:00"
+  },
+  {
+    "repo": "MiSTer-devel/Arcade-Toobin_MiSTer",
+    "core": "Arcade-Toobin",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-Toobin_MiSTer",
+    "first_commit": "2026-08-13T08:48:34Z",
+    "last_commit": "2026-08-16T12:21:32Z",
+    "commits": 5,
+    "crawled_at": "2026-08-16T12:59:42+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Klax_MiSTer",
