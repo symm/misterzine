@@ -6,7 +6,61 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Fri, 14 Aug 2026 22:42:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 20:46:25 +0000</lastBuildDate>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/G.I. Joe (World, EAB).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_G.I. Joe/G.I. Joe (Asia, AA).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_G.I. Joe/G.I. Joe (Japan, JAA).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_G.I. Joe/G.I. Joe (US, UAA).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_G.I. Joe/G.I. Joe (US, UAB).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] G.I. Joe (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gijoe</link>
+<guid isPermaLink="false">coinop:_Arcade/_alternatives/_G.I. Joe/G.I. Joe (World, EB8, prototype).mra:2026-08-15T20:46:25+00:00</guid>
+<pubDate>Sat, 15 Aug 2026 20:46:25 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gijoe.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1992 / Konami&lt;/p&gt;&lt;p&gt;Core: gijoe_mister&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-15 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Thunder Zone (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#thndzone</link>
@@ -852,60 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/atetris.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1988 / Atari&lt;/p&gt;&lt;p&gt;Core: ataritetris&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Tetris (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#atetris</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Tetris/Tetris (set 1, Japan, System 16B) (FD1094 317-0091).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/atetris.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1988 / Atari&lt;/p&gt;&lt;p&gt;Core: ataritetris&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Time Scanner (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#timescan</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Time Scanner/Time Scanner (Set 1, World, S16A) [FD1089B 317-0024].mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/timescan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Pinball / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Time Scanner (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#timescan</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Time Scanner/Time Scanner (set 3, Japan, System 16B) (FD1089B 317-0024).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/timescan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Pinball / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Trojan (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#trojan</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Trojan/Trojan (Romstar, set 2).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/trojan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1986 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Trojan (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#trojan</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Trojan/Trojan (US set 2).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/trojan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1986 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Wonder Boy III - Monster Lair (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#wb3</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Wonder Boy III/Wonder Boy III - Monster Lair (set 2, Japan, System 16B) (FD1094 317-0085).mra:2026-08-14T15:18:56+00:00</guid>
-<pubDate>Fri, 14 Aug 2026 15:18:56 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wb3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Sega / Westone&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-14 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
