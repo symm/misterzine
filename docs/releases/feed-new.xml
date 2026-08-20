@@ -6,7 +6,16 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Tue, 18 Aug 2026 22:22:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:27:49 +0000</lastBuildDate>
+<item>
+<title>[New] Denjin Makai (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#denjinmk</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Denjin Makai (set 1).mra:2026-08-19T22:27:49+00:00</guid>
+<pubDate>Wed, 19 Aug 2026 22:27:49 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/denjinmk.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1994 / Winkysoft / Banpresto&lt;/p&gt;&lt;p&gt;Core: DenjinMakai&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-19 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DenjinMakai_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Dragon's Lair (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#dlair</link>
@@ -893,15 +902,6 @@
 <title>[New] Double Wings (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#dblewingb</link>
 <guid isPermaLink="false">coinop:_Arcade/_alternatives/_Double Wings/Double Wings (World, Set 1).mra:2026-08-01T00:05:22+00:00</guid>
-<pubDate>Sat, 01 Aug 2026 00:05:22 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/dblewingb.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1994 / Mitchell&lt;/p&gt;&lt;p&gt;Core: dblewing&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-01 (source: coinop).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/Coin-OpCollection/Distribution-MiSTerFPGA/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Double Wings (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#dblewingb</link>
-<guid isPermaLink="false">coinop:_Arcade/_alternatives/_Double Wings/Double Wings (World, Set 2).mra:2026-08-01T00:05:22+00:00</guid>
 <pubDate>Sat, 01 Aug 2026 00:05:22 +0000</pubDate>
 <category>new</category>
 <category>Arcade</category>
