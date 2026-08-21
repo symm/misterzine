@@ -6,7 +6,61 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Wed, 19 Aug 2026 22:27:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 01:16:52 +0000</lastBuildDate>
+<item>
+<title>[New] 720 Degrees (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#720</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/720 Degrees (rev 4).mra:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/720.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] APB - All Points Bulletin (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#apb</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/APB - All Points Bulletin (rev 7).mra:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/apb.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1987 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Championship Sprint (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#csprint</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Championship Sprint (rev 3).mra:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csprint.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Paperboy (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#paperboy</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Paperboy (rev 3).mra:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/paperboy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1985 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Super Sprint (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ssprint</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Super Sprint (rev 4).mra:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssprint.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Game &amp; Watch (agg23) (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#GameAndWatch</link>
+<guid isPermaLink="false">distribution_mister:_Console/GameAndWatch_20260814.rbf:2026-08-21T01:16:52+00:00</guid>
+<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1980 / Nintendo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/GameAndWatch_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Denjin Makai (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#denjinmk</link>
@@ -852,60 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/drtoppel.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Kaneko / Taito Corporation Japan&lt;/p&gt;&lt;p&gt;Core: jtkiwi&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/kiwi"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Extermination (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#extrmatn</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Extermination/Extermination (Japan).mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/extrmatn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Taito Corporation Japan&lt;/p&gt;&lt;p&gt;Core: jtkiwi&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/kiwi"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Extermination (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#extrmatn</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Extermination/Extermination (US, Romstar).mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/extrmatn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Taito Corporation Japan&lt;/p&gt;&lt;p&gt;Core: jtkiwi&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/kiwi"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Extermination (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#extrmatn</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Extermination/Extermination (US, World Games).mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/extrmatn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Taito Corporation Japan&lt;/p&gt;&lt;p&gt;Core: jtkiwi&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/kiwi"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Fantasy Zone (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#fantzone</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Fantasy Zone/Fantasy Zone (Prototype, S16A) [No Protection].mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/fantzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Fantasy Zone (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#fantzone</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Fantasy Zone/Fantasy Zone (World, S16A) [317-5000].mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/fantzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Fantasy Zone (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#fantzone</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Fantasy Zone/Fantasy Zone (World, S16A) [FD1089B 317-0016].mra:2026-08-16T19:16:34+00:00</guid>
-<pubDate>Sun, 16 Aug 2026 19:16:34 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/fantzone.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-16 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
