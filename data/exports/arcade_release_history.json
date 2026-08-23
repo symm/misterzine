@@ -4,9 +4,9 @@
     "core": "Arcade-Arabian",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Arabian_MiSTer",
     "first_commit": "2026-08-22T20:55:19Z",
-    "last_commit": "2026-08-23T04:24:40Z",
-    "commits": 4,
-    "crawled_at": "2026-08-23T07:00:26+00:00"
+    "last_commit": "2026-08-23T16:17:02Z",
+    "commits": 6,
+    "crawled_at": "2026-08-23T18:47:45+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-AtariSystem2_MiSTer",
@@ -166,9 +166,9 @@
     "core": "Arcade-LaserdiscGames",
     "html_url": "https://github.com/MiSTer-devel/Arcade-LaserdiscGames_MiSTer",
     "first_commit": "2026-07-04T08:33:05Z",
-    "last_commit": "2026-08-21T03:25:17Z",
-    "commits": 40,
-    "crawled_at": "2026-08-21T07:06:37+00:00"
+    "last_commit": "2026-08-23T16:42:10Z",
+    "commits": 41,
+    "crawled_at": "2026-08-23T18:47:44+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-GulfWarII_MiSTer",
@@ -319,9 +319,9 @@
     "core": "Arcade-IGSPGM",
     "html_url": "https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer",
     "first_commit": "2026-03-16T00:55:28Z",
-    "last_commit": "2026-07-07T19:51:21Z",
-    "commits": 205,
-    "crawled_at": "2026-07-08T07:06:05+00:00"
+    "last_commit": "2026-08-23T18:28:49Z",
+    "commits": 206,
+    "crawled_at": "2026-08-23T18:47:43+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Darius_MiSTer",
@@ -337,9 +337,9 @@
     "core": "Arcade-SNK6502",
     "html_url": "https://github.com/MiSTer-devel/Arcade-SNK6502_MiSTer",
     "first_commit": "2026-02-25T02:16:22Z",
-    "last_commit": "2026-08-04T21:30:48Z",
-    "commits": 44,
-    "crawled_at": "2026-08-05T03:31:24+00:00"
+    "last_commit": "2026-08-23T17:53:43Z",
+    "commits": 47,
+    "crawled_at": "2026-08-23T18:47:42+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Qix_MiSTer",
@@ -355,9 +355,9 @@
     "core": "Arcade-Kangaroo",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Kangaroo_MiSTer",
     "first_commit": "2026-02-25T01:41:46Z",
-    "last_commit": "2026-08-22T22:34:32Z",
-    "commits": 44,
-    "crawled_at": "2026-08-23T01:58:45+00:00"
+    "last_commit": "2026-08-23T16:27:31Z",
+    "commits": 45,
+    "crawled_at": "2026-08-23T18:47:43+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Vastar_MiSTer",

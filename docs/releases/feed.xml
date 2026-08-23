@@ -6,7 +6,97 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sun, 23 Aug 2026 05:07:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 17:55:42 +0000</lastBuildDate>
+<item>
+<title>[Updated] Arabian (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#arabian</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Arabian.mra:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/arabian.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1983 / Sun Electronics&lt;/p&gt;&lt;p&gt;Core: Arabian&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Arabian_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Funky Fish (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#fnkyfish</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Funky Fish.mra:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/fnkyfish.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1981 / Sun Electronics&lt;/p&gt;&lt;p&gt;Core: Kangaroo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Kangaroo_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Kangaroo (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#kangaroo</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Kangaroo.mra:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/kangaroo.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1982 / Sun Electronics&lt;/p&gt;&lt;p&gt;Core: Kangaroo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Kangaroo_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Atari 800 (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Atari800</link>
+<guid isPermaLink="false">distribution_mister:_Computer/Atari800_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1979 / Atari&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Atari800_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Commodore 64 (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#C64</link>
+<guid isPermaLink="false">distribution_mister:_Computer/C64_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1982 / Commodore&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/C64_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Amiga (Minimig) (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Minimig</link>
+<guid isPermaLink="false">distribution_mister:_Computer/Minimig_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1985 / Commodore&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Minimig-AGA_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] X68000 (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#X68000</link>
+<guid isPermaLink="false">distribution_mister:_Computer/X68000_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1987 / Sharp&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/X68000_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] ZX Spectrum (Computer core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ZX-Spectrum</link>
+<guid isPermaLink="false">distribution_mister:_Computer/ZX-Spectrum_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Computer core</category>
+<description>&lt;p&gt;1982 / Sinclair&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/ZX-Spectrum_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Atari 5200 (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Atari5200</link>
+<guid isPermaLink="false">distribution_mister:_Console/Atari5200_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1982 / Atari&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Atari800_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Arduboy (Other core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Arduboy</link>
+<guid isPermaLink="false">distribution_mister:_Other/Arduboy_20260823.rbf:2026-08-23T17:55:42+00:00</guid>
+<pubDate>Sun, 23 Aug 2026 17:55:42 +0000</pubDate>
+<category>updated</category>
+<category>Other core</category>
+<description>&lt;p&gt;Updated in the public MiSTer databases on 2026-08-23 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arduboy_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Arabian (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#arabian</link>
@@ -816,96 +906,6 @@
 <category>new</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/dlair.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1983 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: LaserdiscGames&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-18 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-LaserdiscGames_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Space Ace (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#spaceace</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Space Ace.mra:2026-08-18T22:22:57+00:00</guid>
-<pubDate>Tue, 18 Aug 2026 22:22:57 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/spaceace.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1983 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: LaserdiscGames&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-18 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-LaserdiscGames_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] The Fallen Angels (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#daraku</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Daraku Tenshi The Fallen Angels.mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/daraku.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1998 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Dragon Blaze (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#dragnblz</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dragon Blaze.mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/dragnblz.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 2000 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Gunbarich (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#gnbarich</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Gunbarich.mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gnbarich.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Ball &amp;amp; Paddle / 2001 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Gunbird 2 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#gunbird2</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Gunbird 2 (set 1).mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gunbird2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1998 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Lode Runner - The Dig Fight (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#loderndf</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Lode Runner - The Dig Fight (ver. B).mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/loderndf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 2000 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Mahjong G-Taste (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#mjgtaste</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Mahjong G-Taste.mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mjgtaste.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2002 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Mahjong Hot Gimmick Integral (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hotgmcki</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Mahjong Hot Gimmick Integral (Japan).mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hotgmcki.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2001 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Quiz de Idol! Hot Debut (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#hotdebut</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Quiz de Idol! Hot Debut (Japan).mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hotdebut.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Quiz / 2000 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sol Divide: Sword Of Darkness (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#soldivid</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Sol Divide Sword Of Darkness.mra:2026-08-17T21:01:43+00:00</guid>
-<pubDate>Mon, 17 Aug 2026 21:01:43 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/soldivid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1997 / Psikyo&lt;/p&gt;&lt;p&gt;Core: PsikyoSH2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-17 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
