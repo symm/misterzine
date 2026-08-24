@@ -6,7 +6,97 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Sun, 23 Aug 2026 17:55:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 01:24:13 +0000</lastBuildDate>
+<item>
+<title>[Updated] Puzzle Star (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#puzlstar</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Puzzle Star (ver. 100MG, WORLD).mra:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/puzlstar.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1999 / IGS (Metro license)&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Puzzli 2 Super (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#puzzli2s</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Puzzli 2 Super (ver. 200, WORLD).mra:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/puzzli2s.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 2001 / IGS (Metro license)&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Star Trek (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#startrek</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Star Trek.mra:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/startrek.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1982 / Sega&lt;/p&gt;&lt;p&gt;Core: SegaG80V&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Tac/Scan (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#tacscan</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Tac-Scan.mra:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tacscan.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1982 / Sega&lt;/p&gt;&lt;p&gt;Core: SegaG80V&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Zektor (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#zektor</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Zektor (revision B).mra:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/zektor.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1982 / Sega&lt;/p&gt;&lt;p&gt;Core: SegaG80V&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] AY-3-8500 (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#AY-3-8500</link>
+<guid isPermaLink="false">distribution_mister:_Console/AY-3-8500_20260823.rbf:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1976 / General Instrument&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/AY-3-8500-MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Arcadia 2001 (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#Arcadia</link>
+<guid isPermaLink="false">distribution_mister:_Console/Arcadia_20260816.rbf:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1982 / Emerson&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcadia_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] NES (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#NES</link>
+<guid isPermaLink="false">distribution_mister:_Console/NES_20260823.rbf:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1983 / Nintendo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/NES_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Master System (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#SMS</link>
+<guid isPermaLink="false">distribution_mister:_Console/SMS_20260823.rbf:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1985 / Sega&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/SMS_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] SNES (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#SNES</link>
+<guid isPermaLink="false">distribution_mister:_Console/SNES_20260823.rbf:2026-08-24T01:24:13+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 01:24:13 +0000</pubDate>
+<category>updated</category>
+<category>Console core</category>
+<description>&lt;p&gt;1990 / Nintendo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-24 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/SNES_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Arabian (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#arabian</link>
@@ -816,96 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/wrestwar.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1989 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] NeoGeoPocket-Color (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#NeoGeoPocket-Color</link>
-<guid isPermaLink="false">jtbindb:_Console/NeoGeoPocket-Color.rbf:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Console core</category>
-<description>&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Neo Geo Pocket (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#NeoGeoPocket</link>
-<guid isPermaLink="false">jtbindb:_Console/NeoGeoPocket.rbf:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Console core</category>
-<description>&lt;p&gt;1998 / SNK&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/ngp"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] 720 Degrees (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#720</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/720 Degrees (rev 4).mra:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/720.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Sports / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] APB - All Points Bulletin (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#apb</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/APB - All Points Bulletin (rev 7).mra:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/apb.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1987 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Championship Sprint (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#csprint</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Championship Sprint (rev 3).mra:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/csprint.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Paperboy (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#paperboy</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Paperboy (rev 3).mra:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/paperboy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1985 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Super Sprint (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssprint</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Super Sprint (rev 4).mra:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssprint.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Driving / 1986 / Atari Games&lt;/p&gt;&lt;p&gt;Core: atarisys2&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Game &amp; Watch (agg23) (Console core)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#GameAndWatch</link>
-<guid isPermaLink="false">distribution_mister:_Console/GameAndWatch_20260814.rbf:2026-08-21T01:16:52+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 01:16:52 +0000</pubDate>
-<category>updated</category>
-<category>Console core</category>
-<description>&lt;p&gt;1980 / Nintendo&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/GameAndWatch_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Denjin Makai (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#denjinmk</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Denjin Makai (set 1).mra:2026-08-19T22:27:49+00:00</guid>
-<pubDate>Wed, 19 Aug 2026 22:27:49 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/denjinmk.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1994 / Winkysoft / Banpresto&lt;/p&gt;&lt;p&gt;Core: DenjinMakai&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-19 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-DenjinMakai_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Dragon's Lair (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#dlair</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dragon's Lair.mra:2026-08-18T22:22:57+00:00</guid>
-<pubDate>Tue, 18 Aug 2026 22:22:57 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/dlair.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1983 / Cinematronics&lt;/p&gt;&lt;p&gt;Core: LaserdiscGames&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-18 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-LaserdiscGames_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

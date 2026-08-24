@@ -31,9 +31,9 @@
     "core": "Arcade-SegaG80V",
     "html_url": "https://github.com/MiSTer-devel/Arcade-SegaG80V_MiSTer",
     "first_commit": "2026-08-14T11:51:56Z",
-    "last_commit": "2026-08-16T19:16:43Z",
-    "commits": 3,
-    "crawled_at": "2026-08-17T01:54:08+00:00"
+    "last_commit": "2026-08-23T20:48:41Z",
+    "commits": 5,
+    "crawled_at": "2026-08-24T01:56:44+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Toobin_MiSTer",
@@ -319,9 +319,9 @@
     "core": "Arcade-IGSPGM",
     "html_url": "https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer",
     "first_commit": "2026-03-16T00:55:28Z",
-    "last_commit": "2026-08-23T18:28:49Z",
-    "commits": 206,
-    "crawled_at": "2026-08-23T18:47:43+00:00"
+    "last_commit": "2026-08-23T22:17:55Z",
+    "commits": 209,
+    "crawled_at": "2026-08-24T01:56:43+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Darius_MiSTer",
@@ -337,18 +337,18 @@
     "core": "Arcade-SNK6502",
     "html_url": "https://github.com/MiSTer-devel/Arcade-SNK6502_MiSTer",
     "first_commit": "2026-02-25T02:16:22Z",
-    "last_commit": "2026-08-23T17:53:43Z",
-    "commits": 47,
-    "crawled_at": "2026-08-23T18:47:42+00:00"
+    "last_commit": "2026-08-23T20:40:41Z",
+    "commits": 48,
+    "crawled_at": "2026-08-24T01:56:43+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Qix_MiSTer",
     "core": "Arcade-Qix",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Qix_MiSTer",
     "first_commit": "2026-02-25T01:52:54Z",
-    "last_commit": "2026-08-06T22:58:11Z",
-    "commits": 70,
-    "crawled_at": "2026-08-07T00:14:44+00:00"
+    "last_commit": "2026-08-24T01:54:25Z",
+    "commits": 77,
+    "crawled_at": "2026-08-24T01:56:42+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Kangaroo_MiSTer",
