@@ -31,9 +31,9 @@
     "core": "Arcade-PsikyoSH2",
     "html_url": "https://github.com/MiSTer-devel/Arcade-PsikyoSH2_MiSTer",
     "first_commit": "2026-08-16T12:05:18Z",
-    "last_commit": "2026-08-17T20:35:34Z",
-    "commits": 7,
-    "crawled_at": "2026-08-18T01:49:51+00:00"
+    "last_commit": "2026-08-26T12:34:43Z",
+    "commits": 9,
+    "crawled_at": "2026-08-26T13:16:04+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-SegaG80V_MiSTer",
@@ -481,9 +481,9 @@
     "core": "Arcade-Salamander",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Salamander_MiSTer",
     "first_commit": "2023-08-30T09:06:43Z",
-    "last_commit": "2026-08-02T06:08:59Z",
-    "commits": 23,
-    "crawled_at": "2026-08-02T08:36:32+00:00"
+    "last_commit": "2026-08-26T09:02:19Z",
+    "commits": 24,
+    "crawled_at": "2026-08-26T13:16:03+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-BubSys_MiSTer",
