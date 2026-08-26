@@ -9034,5 +9034,95 @@
   "snap_img": "ingames/raiden2.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "DoDonPachi (World, 1997 2-5 Master Ver.)",
+  "setname": "ddonpach",
+  "source": "adb",
+  "title_img": "titles/ddonpach.png",
+  "snap_img": "ingames/ddonpach.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "DoDonPachi (World, 1997 25 Master Ver.)",
+  "setname": "ddonpach",
+  "source": "adb",
+  "title_img": "titles/ddonpach.png",
+  "snap_img": "ingames/ddonpach.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "ESP Ra.De. (World 1998 422 International Ver)",
+  "setname": "esprade",
+  "source": "adb",
+  "title_img": "titles/esprade.png",
+  "snap_img": "ingames/esprade.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "ESP Ra.De. (World, 1998 4-22 International Ver.)",
+  "setname": "esprade",
+  "source": "adb",
+  "title_img": "titles/esprade.png",
+  "snap_img": "ingames/esprade.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Fever SOS (World, 98-09-25 VER)",
+  "setname": "feversos",
+  "source": "adb",
+  "title_img": "titles/feversos.png",
+  "snap_img": "ingames/feversos.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Fever SOS (World, 980925 VER)",
+  "setname": "feversos",
+  "source": "adb",
+  "title_img": "titles/feversos.png",
+  "snap_img": "ingames/feversos.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Guwange (Japan, 1999 6-24 Master Ver 16-55)",
+  "setname": "guwange",
+  "source": "adb",
+  "title_img": "titles/guwange.png",
+  "snap_img": "ingames/guwange.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Guwange (Japan, 1999 624 Master Ver 1655)",
+  "setname": "guwange",
+  "source": "adb",
+  "title_img": "titles/guwange.png",
+  "snap_img": "ingames/guwange.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "The Cliffhanger - Edward Randy (World ver 3)",
+  "setname": "edrandy",
+  "source": "adb",
+  "title_img": "titles/edrandy.png",
+  "snap_img": "ingames/edrandy.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "The Cliffhanger - Edward Randy (World, Ver. 3)",
+  "setname": "edrandy",
+  "source": "adb",
+  "title_img": "titles/edrandy.png",
+  "snap_img": "ingames/edrandy.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]

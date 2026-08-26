@@ -6,7 +6,133 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Wed, 26 Aug 2026 01:17:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 06:45:57 +0000</lastBuildDate>
+<item>
+<title>[Updated] Caveman Ninja (World ver 4) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#caveman-ninja-world-ver-4</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Caveman Ninja (World ver 4).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cninja.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: deco16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Crude Buster (World FX version) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#crude-buster-world-fx-version</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Crude Buster (World FX version).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/cbuster.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: deco16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] DoDonPachi (World, 1997 2-5 Master Ver.) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#dodonpachi-world-1997-2-5-master-ver</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/DoDonPachi (World, 1997 2-5 Master Ver.).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ddonpach.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1997 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] DonPachi (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#donpachi</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/DonPachi (US).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/donpachi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1995 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] ESP Ra.De. (World, 1998 4-22 International Ver.) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#esp-ra-de-world-1998-4-22-international-ver</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/ESP Ra.De. (World, 1998 4-22 International Ver.).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/esprade.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1998 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Fever SOS (World, 98-09-25 VER) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#fever-sos-world-98-09-25-ver</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Fever SOS (World, 98-09-25 VER).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/feversos.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1998 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Gaia Crusaders (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#gaia</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Gaia Crusaders.mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/gaia.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1999 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Gogetsuji Legends (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#plegends</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Gogetsuji Legends (US, Ver. 95.06.20).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/plegends.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1995 / Atlus&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Guwange (Japan, 1999 6-24 Master Ver 16-55) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#guwange-japan-1999-6-24-master-ver-16-55</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Guwange (Japan, 1999 6-24 Master Ver 16-55).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/guwange.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1999 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Power Instinct 2 (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#pwrinst2</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Power Instinct 2 (US, Ver. 94.04.08, set 1).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/pwrinst2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1994 / Atlus&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Puzzle Uo Poko (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#uopoko</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Puzzle Uo Poko (World).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/uopoko.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1998 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] The Cliffhanger - Edward Randy (World ver 3) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#the-cliffhanger-edward-randy-world-ver-3</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/The Cliffhanger - Edward Randy (World ver 3).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/edrandy.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1990 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: deco16&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Thunder Heroes (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#theroes</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Thunder Heroes (set 1).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/theroes.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 2001 / CAVE&lt;/p&gt;&lt;p&gt;Core: cave&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Cave_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Vapor Trail - Hyper Offence Formation (World revision 1) (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#vapor-trail-hyper-offence-formation-world-revision-1</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Vapor Trail - Hyper Offence Formation (World revision 1).mra:2026-08-26T06:45:57+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 06:45:57 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/vaportra.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: deco16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Deco16_Mister/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Air Gallet (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#agallet</link>
@@ -780,132 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Sukeban Jansi Ryuko (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#sjryuko</link>
-<guid isPermaLink="false">jtbindb:_Arcade/Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sjryuko.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 1988 / White Board&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Toryumon (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#toryumon</link>
-<guid isPermaLink="false">jtbindb:_Arcade/Toryumon.mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/toryumon.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1994 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Tough Turf (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#tturfu</link>
-<guid isPermaLink="false">jtbindb:_Arcade/Tough Turf (set 1, US) (8751 317-0099).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/tturfu.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1989 / Sega / Sunsoft&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] 1943: The Battle of Midway (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#1943</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_1943 The Battle of Midway/1943 The Battle of Midway (US).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/1943.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Capcom&lt;/p&gt;&lt;p&gt;Core: jt1943&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/1943"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] 1943: The Battle of Midway (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#1943</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_1943 The Battle of Midway/1943 The Battle of Midway (US, Rev C).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/1943.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Capcom&lt;/p&gt;&lt;p&gt;Core: jt1943&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/1943"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Action Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#afighter</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Action Fighter/Action Fighter (System 16B, FD1089B 317-unknown).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/afighter.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Action Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#afighter</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Action Fighter/Action Fighter (System 16B, unprotected, analog controls).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/afighter.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Action Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#afighter</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Action Fighter/Action Fighter (World, S16A) [FD1089B 317-xxxx] [Analog Controls].mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/afighter.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Action Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#afighter</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Action Fighter/Action Fighter (World, S16A) [FD1089B 317-xxxx].mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/afighter.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Action Fighter (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#afighter</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Action Fighter/Action Fighter (World, S16A) [No Protection].mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/afighter.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Alex Kidd: The Lost Stars (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#alexkidd</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Alex Kidd The Lost Stars/Alex Kidd The Lost Stars (Set 1, World, S16A) [FD1089A 317-0021].mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/alexkidd.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1986 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Alien Syndrome (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#aliensyn</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Alien Syndrome/Alien Syndrome (Set 2, World, S16A) [FD1089A 317-0033].mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/aliensyn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Alien Syndrome (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#aliensyn</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Alien Syndrome/Alien Syndrome (set 7, System 16B, MC-8123B 317-00xx).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/aliensyn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Altered Beast (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#altbeast</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Altered Beast/Altered Beast (set 2) (MC-8123B 317-0066).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/altbeast.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
