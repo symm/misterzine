@@ -6,7 +6,52 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Tue, 25 Aug 2026 17:40:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 01:17:29 +0000</lastBuildDate>
+<item>
+<title>[Updated] Air Gallet (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#agallet</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Air Gallet (Europe).mra:2026-08-26T01:17:29+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 01:17:29 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/agallet.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1996 / Gazelle (Banpresto license)&lt;/p&gt;&lt;p&gt;Core: CaveBanpresto&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-CaveBanpresto_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Bishoujo Senshi Sailor Moon (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#bishoujo-senshi-sailor-moon</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Bishoujo Senshi Sailor Moon (Version 95-03-22B, Japan).mra:2026-08-26T01:17:29+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 01:17:29 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sailormn.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1995 / Gazelle (Banpresto license)&lt;/p&gt;&lt;p&gt;Core: CaveBanpresto&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-CaveBanpresto_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Hotdog Storm (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#hotdogst</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Hotdog Storm (Korea).mra:2026-08-26T01:17:29+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 01:17:29 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/hotdogst.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1996 / Marble (Ace International license)&lt;/p&gt;&lt;p&gt;Core: CaveBanpresto&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-CaveBanpresto_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Mazinger Z (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#mazinger</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Mazinger Z (World).mra:2026-08-26T01:17:29+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 01:17:29 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mazinger.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1994 / Banpresto / Dynamic Pl. Toei Animation&lt;/p&gt;&lt;p&gt;Core: CaveBanpresto&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-CaveBanpresto_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Updated] Metamoqester (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#metmqstr</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Metamoqester (World).mra:2026-08-26T01:17:29+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 01:17:29 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/metmqstr.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1995 / Banpresto / Pandorabox&lt;/p&gt;&lt;p&gt;Core: CaveBanpresto&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-26 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-CaveBanpresto_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] Dragon World 3 (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#drgw3</link>
@@ -861,51 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/altbeast.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Aurail (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#aurail</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Aurail/Aurail (set 2, World) (FD1089B 317-0168).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/aurail.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1990 / Sega / Westone&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#avengers</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Avengers/Avengers (US).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/avengers.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1987 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#avengers</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Avengers/Avengers (US, rev. A).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/avengers.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1987 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Avengers (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#avengers</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Avengers/Avengers (US, rev. C).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/avengers.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1987 / Capcom&lt;/p&gt;&lt;p&gt;Core: jttrojan&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/trojan"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Bay Route (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#bayroute</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Bay Route/Bay Route (set 1, US) (unprotected).mra:2026-08-21T14:41:35+00:00</guid>
-<pubDate>Fri, 21 Aug 2026 14:41:35 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/bayroute.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1989 / Sunsoft / Sega&lt;/p&gt;&lt;p&gt;Core: jts16b&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-21 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16b"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
