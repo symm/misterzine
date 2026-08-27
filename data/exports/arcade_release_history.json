@@ -1,5 +1,14 @@
 [
   {
+    "repo": "MiSTer-devel/Arcade-KillerInstinct_MiSTer",
+    "core": "Arcade-KillerInstinct",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-KillerInstinct_MiSTer",
+    "first_commit": "2026-08-26T22:25:45Z",
+    "last_commit": "2026-08-26T22:25:45Z",
+    "commits": 1,
+    "crawled_at": "2026-08-27T09:46:42+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-Raiden2_MiSTer",
     "core": "Arcade-Raiden2",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Raiden2_MiSTer",
@@ -7,6 +16,15 @@
     "last_commit": "2026-08-25T17:24:33Z",
     "commits": 1,
     "crawled_at": "2026-08-25T18:56:06+00:00"
+  },
+  {
+    "repo": "MiSTer-devel/Arcade-SegaXBoard_MiSTer",
+    "core": "Arcade-SegaXBoard",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-SegaXBoard_MiSTer",
+    "first_commit": "2026-08-24T02:55:09Z",
+    "last_commit": "2026-08-27T05:01:14Z",
+    "commits": 56,
+    "crawled_at": "2026-08-27T09:46:42+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Arabian_MiSTer",
@@ -868,9 +886,9 @@
     "core": "Arcade-IremM72",
     "html_url": "https://github.com/MiSTer-devel/Arcade-IremM72_MiSTer",
     "first_commit": "2021-05-02T20:53:45Z",
-    "last_commit": "2026-06-02T16:24:59Z",
-    "commits": 151,
-    "crawled_at": "2026-08-25T01:51:39+00:00"
+    "last_commit": "2026-08-27T05:30:03Z",
+    "commits": 192,
+    "crawled_at": "2026-08-27T09:46:41+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-IremM92_MiSTer",
