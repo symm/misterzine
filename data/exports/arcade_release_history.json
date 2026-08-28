@@ -22,9 +22,9 @@
     "core": "Arcade-SegaXBoard",
     "html_url": "https://github.com/MiSTer-devel/Arcade-SegaXBoard_MiSTer",
     "first_commit": "2026-08-24T02:55:09Z",
-    "last_commit": "2026-08-27T16:12:15Z",
-    "commits": 60,
-    "crawled_at": "2026-08-27T22:15:13+00:00"
+    "last_commit": "2026-08-28T03:25:15Z",
+    "commits": 62,
+    "crawled_at": "2026-08-28T11:22:14+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Arabian_MiSTer",
@@ -106,6 +106,24 @@
     "last_commit": "2026-08-25T02:27:22Z",
     "commits": 21,
     "crawled_at": "2026-08-25T07:07:28+00:00"
+  },
+  {
+    "repo": "MiSTer-devel/Arcade-MarbleMadness2_MiSTer",
+    "core": "Arcade-MarbleMadness2",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-MarbleMadness2_MiSTer",
+    "first_commit": "2026-07-29T15:16:16Z",
+    "last_commit": "2026-08-28T02:25:44Z",
+    "commits": 4,
+    "crawled_at": "2026-08-28T11:22:14+00:00"
+  },
+  {
+    "repo": "MiSTer-devel/Arcade-PinballAction",
+    "core": "Arcade-PinballAction",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-PinballAction",
+    "first_commit": "2026-07-27T20:36:10Z",
+    "last_commit": "2026-08-19T14:51:53Z",
+    "commits": 51,
+    "crawled_at": "2026-08-28T11:22:12+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Asteroids_MiSTer",
@@ -202,9 +220,9 @@
     "core": "Arcade-LaserdiscGames",
     "html_url": "https://github.com/MiSTer-devel/Arcade-LaserdiscGames_MiSTer",
     "first_commit": "2026-07-04T08:33:05Z",
-    "last_commit": "2026-08-25T03:20:50Z",
-    "commits": 42,
-    "crawled_at": "2026-08-25T07:07:28+00:00"
+    "last_commit": "2026-08-28T00:57:26Z",
+    "commits": 43,
+    "crawled_at": "2026-08-28T11:22:13+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-GulfWarII_MiSTer",
