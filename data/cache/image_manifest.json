@@ -9223,5 +9223,23 @@
   "snap_img": "ingames/marblmd2.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Salamander (version D)",
+  "setname": "salamand",
+  "source": "adb",
+  "title_img": "titles/salamand.png",
+  "snap_img": "ingames/salamand.png",
+  "third_img": null,
+  "third_pack": null
+ },
+ {
+  "title": "Salamander (version J)",
+  "setname": "salamandj",
+  "source": "adb",
+  "title_img": "titles/salamandj.png",
+  "snap_img": "ingames/salamandj.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]
