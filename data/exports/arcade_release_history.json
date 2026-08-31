@@ -1,5 +1,14 @@
 [
   {
+    "repo": "MiSTer-devel/Arcade-RingKing_MiSTer",
+    "core": "Arcade-RingKing",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-RingKing_MiSTer",
+    "first_commit": "2026-08-27T16:33:42Z",
+    "last_commit": "2026-08-31T12:20:38Z",
+    "commits": 7,
+    "crawled_at": "2026-08-31T13:47:33+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-KillerInstinct_MiSTer",
     "core": "Arcade-KillerInstinct",
     "html_url": "https://github.com/MiSTer-devel/Arcade-KillerInstinct_MiSTer",
