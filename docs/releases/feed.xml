@@ -6,7 +6,61 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Mon, 31 Aug 2026 14:03:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 20:10:44 +0000</lastBuildDate>
+<item>
+<title>[Updated] Arabian (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#arabian</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Arabian.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/arabian.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1983 / Sun Electronics&lt;/p&gt;&lt;p&gt;Core: Arabian&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Arabian_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Ark Area (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#arkarea</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Ark Area.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/arkarea.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Atomic Robo-kid (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robokid</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Atomic Robo-Kid.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robokid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Mutant Night (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#mnight</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Mutant Night.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mnight.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Ninja-Kid II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ninjakd2</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Ninja-Kid II.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ninjakd2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Omega Fighter (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#omegaf</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Omega Fighter.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/omegaf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Ring King (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#ringking</link>
@@ -852,60 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/drgw3.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 1998 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Dragon World 3 EX (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#dwex</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Dragon World 3 EX (ver. 100).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/dwex.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Tabletop / 2000 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Knights of Valour 2 (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#kov2</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Knights of Valour 2 (ver. 107).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/kov2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 2000 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Knights of Valour Super Heroes (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#kovsh</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Knights of Valour Super Heroes (ver. 104, CN).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/kovsh.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1999 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Martial Masters (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#martmast</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Martial Masters (ver. 104, 102, 102US).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/martmast.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1999 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Oriental Legend (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#orlegend</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Oriental Legend (ver. 126).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/orlegend.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Fighter / 1997 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Photo Y2K (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#photoy2k</link>
-<guid isPermaLink="false">distribution_mister:_Arcade/Photo Y2K (ver. 105).mra:2026-08-25T05:17:11+00:00</guid>
-<pubDate>Tue, 25 Aug 2026 05:17:11 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/photoy2k.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Puzzle / 1999 / IGS&lt;/p&gt;&lt;p&gt;Core: IGSPGM&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-08-25 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-IGSPGM_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

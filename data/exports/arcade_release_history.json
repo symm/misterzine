@@ -1,5 +1,14 @@
 [
   {
+    "repo": "MiSTer-devel/Arcade-UPLFramebuffer_MiSTer",
+    "core": "Arcade-UPLFramebuffer",
+    "html_url": "https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer",
+    "first_commit": "2026-08-29T18:24:19Z",
+    "last_commit": "2026-09-01T19:56:43Z",
+    "commits": 18,
+    "crawled_at": "2026-09-01T21:01:21+00:00"
+  },
+  {
     "repo": "MiSTer-devel/Arcade-RingKing_MiSTer",
     "core": "Arcade-RingKing",
     "html_url": "https://github.com/MiSTer-devel/Arcade-RingKing_MiSTer",
@@ -13,9 +22,9 @@
     "core": "Arcade-KillerInstinct",
     "html_url": "https://github.com/MiSTer-devel/Arcade-KillerInstinct_MiSTer",
     "first_commit": "2026-08-26T22:25:45Z",
-    "last_commit": "2026-08-31T22:51:54Z",
-    "commits": 14,
-    "crawled_at": "2026-09-01T05:06:14+00:00"
+    "last_commit": "2026-09-01T16:44:03Z",
+    "commits": 16,
+    "crawled_at": "2026-09-01T21:01:20+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-Raiden2_MiSTer",
@@ -40,9 +49,9 @@
     "core": "Arcade-Arabian",
     "html_url": "https://github.com/MiSTer-devel/Arcade-Arabian_MiSTer",
     "first_commit": "2026-08-22T20:55:19Z",
-    "last_commit": "2026-08-25T01:50:31Z",
-    "commits": 8,
-    "crawled_at": "2026-08-25T01:51:42+00:00"
+    "last_commit": "2026-09-01T18:44:42Z",
+    "commits": 9,
+    "crawled_at": "2026-09-01T21:01:19+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-AtariSystem2_MiSTer",
@@ -445,9 +454,9 @@
     "core": "Arcade-BluePrint",
     "html_url": "https://github.com/MiSTer-devel/Arcade-BluePrint_MiSTer",
     "first_commit": "2026-02-14T04:27:05Z",
-    "last_commit": "2026-08-25T02:31:59Z",
-    "commits": 54,
-    "crawled_at": "2026-08-25T07:07:22+00:00"
+    "last_commit": "2026-09-01T19:00:02Z",
+    "commits": 55,
+    "crawled_at": "2026-09-01T21:01:18+00:00"
   },
   {
     "repo": "MiSTer-devel/Arcade-StarForce_MiSTer",

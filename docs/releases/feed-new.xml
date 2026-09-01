@@ -6,7 +6,52 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Mon, 31 Aug 2026 14:03:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 20:10:44 +0000</lastBuildDate>
+<item>
+<title>[New] Ark Area (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#arkarea</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Ark Area.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/arkarea.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Atomic Robo-kid (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#robokid</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Atomic Robo-Kid.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robokid.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1988 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Mutant Night (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#mnight</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Mutant Night.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/mnight.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Ninja-Kid II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#ninjakd2</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Ninja-Kid II.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ninjakd2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] Omega Fighter (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#omegaf</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Omega Fighter.mra:2026-09-01T20:10:44+00:00</guid>
+<pubDate>Tue, 01 Sep 2026 20:10:44 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/omegaf.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1989 / UPL&lt;/p&gt;&lt;p&gt;Core: UPLFramebuffer&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-01 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-UPLFramebuffer_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Ring King (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#ringking</link>
@@ -857,51 +902,6 @@
 <title>[New] Sunset Riders (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
 <guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver JBD).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver UBC).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver ADD).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver EAA).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver JAC).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (4 Players ver JAD).mra:2026-08-09T20:24:39+00:00</guid>
 <pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
 <category>new</category>
 <category>Arcade</category>
