@@ -6,7 +6,16 @@
 <description>Cores and arcade games newly added to the public MiSTer databases. See feed.xml for updates too.</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed-new.xml"/>
-<lastBuildDate>Tue, 01 Sep 2026 20:10:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:06:24 +0000</lastBuildDate>
+<item>
+<title>[New] Escape from the Planet of the Robot Monsters (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#eprom</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Escape from the Planet of the Robot Monsters (set 1).mra:2026-09-03T10:06:24+00:00</guid>
+<pubDate>Thu, 03 Sep 2026 10:06:24 +0000</pubDate>
+<category>new</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/eprom.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1989 / Atari Games&lt;/p&gt;&lt;p&gt;Core: Escape&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-09-03 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-Escape_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[New] Ark Area (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#arkarea</link>
@@ -893,15 +902,6 @@
 <title>[New] Sunset Riders (Arcade)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
 <guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver EBD).mra:2026-08-09T20:24:39+00:00</guid>
-<pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
-<category>new</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/ssriders.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1991 / Konami&lt;/p&gt;&lt;p&gt;Core: jtriders&lt;/p&gt;&lt;p&gt;New in the public MiSTer databases on 2026-08-09 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/riders"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[New] Sunset Riders (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#ssriders</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Sunset Riders/Sunset Riders (2 Players ver JBD).mra:2026-08-09T20:24:39+00:00</guid>
 <pubDate>Sun, 09 Aug 2026 20:24:39 +0000</pubDate>
 <category>new</category>
 <category>Arcade</category>
