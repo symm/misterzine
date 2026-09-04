@@ -9313,5 +9313,14 @@
   "snap_img": "ingames/ringking.png",
   "third_img": null,
   "third_pack": null
+ },
+ {
+  "title": "Pocket Gal",
+  "setname": "pcktgal",
+  "source": "adb",
+  "title_img": "titles/pcktgal.png",
+  "snap_img": "ingames/pcktgal.png",
+  "third_img": null,
+  "third_pack": null
  }
 ]
