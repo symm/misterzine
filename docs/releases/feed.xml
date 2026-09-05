@@ -6,7 +6,43 @@
 <description>New cores/games and shipped updates in the public MiSTer databases, from the daily tracker crawl. Filtered variants: feed-new.xml (new only), feed-updates.xml (updates only).</description>
 <language>en</language>
 <atom:link rel="self" type="application/rss+xml" href="https://misterzine.fyi/releases/feed.xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 18:19:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 00:39:06 +0000</lastBuildDate>
+<item>
+<title>[Updated] Marble Madness II (Arcade)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#marblmd2</link>
+<guid isPermaLink="false">distribution_mister:_Arcade/Marble Madness II (prototype).mra:2026-09-05T00:39:06+00:00</guid>
+<pubDate>Sat, 05 Sep 2026 00:39:06 +0000</pubDate>
+<category>updated</category>
+<category>Arcade</category>
+<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/marblmd2.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Maze / 1991 / Atari Games&lt;/p&gt;&lt;p&gt;Core: Arcade-MarbleMadness2&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/Arcade-MarbleMadness2_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] GameCom (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#GameCom</link>
+<guid isPermaLink="false">distribution_mister:_Console/GameCom_20260903.rbf:2026-09-05T00:39:06+00:00</guid>
+<pubDate>Sat, 05 Sep 2026 00:39:06 +0000</pubDate>
+<category>new</category>
+<category>Console core</category>
+<description>&lt;p&gt;New in the public MiSTer databases on 2026-09-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/GameCom_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] GameKing (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#GameKing</link>
+<guid isPermaLink="false">distribution_mister:_Console/GameKing_20260903.rbf:2026-09-05T00:39:06+00:00</guid>
+<pubDate>Sat, 05 Sep 2026 00:39:06 +0000</pubDate>
+<category>new</category>
+<category>Console core</category>
+<description>&lt;p&gt;New in the public MiSTer databases on 2026-09-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/GameKing_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[New] PocketStation (Console core)</title>
+<link>https://misterzine.fyi/releases/?ref=rss#PocketStation</link>
+<guid isPermaLink="false">distribution_mister:_Console/PocketStation_20260903.rbf:2026-09-05T00:39:06+00:00</guid>
+<pubDate>Sat, 05 Sep 2026 00:39:06 +0000</pubDate>
+<category>new</category>
+<category>Console core</category>
+<description>&lt;p&gt;New in the public MiSTer databases on 2026-09-05 (source: distribution_mister).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/MiSTer-devel/PocketStation_MiSTer/commits"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Updated] MacLC (Computer core)</title>
 <link>https://misterzine.fyi/releases/?ref=rss#MacLC</link>
@@ -870,42 +906,6 @@
 <category>updated</category>
 <category>Arcade</category>
 <description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/robocop.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1988 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: jtcop&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-04 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/cop"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] SDI - Strategic Defense Initiative (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#sdi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_SDI/SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028).mra:2026-09-04T16:24:17+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 16:24:17 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sdi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-04 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] SDI - Strategic Defense Initiative (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#sdi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_SDI/SDI Strategic Defense Initiative (Japan, Old Ver., S16A) [FD1089B 317-0027].mra:2026-09-04T16:24:17+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 16:24:17 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/sdi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Shooter / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-04 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Secret Agent (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#secretag</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Secret Agent/Secret Agent (Japan, revision 2).mra:2026-09-04T16:24:17+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 16:24:17 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/secretag.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1989 / Data East Corporation&lt;/p&gt;&lt;p&gt;Core: jtslyspy&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-04 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/slyspy"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Updated] Shinobi (Arcade)</title>
-<link>https://misterzine.fyi/releases/?ref=rss#shinobi</link>
-<guid isPermaLink="false">jtbindb:_Arcade/_alternatives/_Shinobi/Shinobi (Set 1, World, S16A) [FD1094 317-0050].mra:2026-09-04T16:24:17+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 16:24:17 +0000</pubDate>
-<category>updated</category>
-<category>Arcade</category>
-<description>&lt;p&gt;&lt;img src="https://misterzine.fyi/images/title/shinobi.png" alt=""/&gt;&lt;/p&gt;&lt;p&gt;Platform / 1987 / Sega&lt;/p&gt;&lt;p&gt;Core: jts16&lt;/p&gt;&lt;p&gt;Updated in the public MiSTer databases on 2026-09-04 (source: jtbindb).&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/jotego/jtcores/commits/master/cores/s16"&gt;Commit history&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
